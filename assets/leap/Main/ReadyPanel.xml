@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" designImageAlpha="100" designImageLayer="1">
+  <displayList>
+    <component id="n36_zmlu" name="n36" src="zmluswj" fileName="Main/ReadyBg.xml" xy="0,0"/>
+    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="美术/Folder1/排行榜按钮.xml" xy="243,1127">
+      <relation target="n19_pjhb" sidePair="top-top"/>
+    </component>
+    <graph id="n40_zmlu" name="n40" xy="-5,493" size="730,332" skew="0,-3.3" alpha="0.6" type="rect" lineSize="0" fillColor="#ff000000">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </graph>
+    <component id="n19_pjhb" name="startBtn" src="nyiassa" fileName="美术/Folder1/开始按钮.xml" xy="280,863">
+      <relation target="" sidePair="top-top"/>
+    </component>
+    <graph id="n29_q2rs" name="n29" xy="0,1181" size="720,100" group="n30_q2rs" visible="false" alpha="0.3" type="rect" lineSize="0" fillColor="#ff000000">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </graph>
+    <text id="n38_zmlu" name="n38" xy="0,1181" size="720,100" group="n30_q2rs" visible="false" fontSize="24" color="#ffffff" align="center" vAlign="middle" leading="5" autoSize="none" text="抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当&#xA;适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活">
+      <relation target="n29_q2rs" sidePair="top-top"/>
+    </text>
+    <group id="n30_q2rs" name="n30" xy="0,1181" size="720,100" hideByEditor="true"/>
+    <component id="n39_zmlu" name="n39" src="zmluswk" fileName="Main/Title.xml" xy="359,159"/>
+  </displayList>
+</component>

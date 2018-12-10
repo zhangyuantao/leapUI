@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="0,0">
+  <displayList>
+    <component id="n0_ir4q" name="n0" src="ty38st3" fileName="动画/Component1.xml" xy="0,-16"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="Alpha" target="n0_ir4q" tween="true" startValue="0" endValue="1" duration="6"/>
+    <item time="0" type="Scale" target="n0_ir4q" tween="true" startValue="0,0" endValue="1,1" duration="6"/>
+    <item time="0" type="XY" target="n0_ir4q" value="0,0"/>
+    <item time="6" type="Alpha" target="n0_ir4q" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="6" type="Scale" target="n0_ir4q" tween="true" startValue="1,1"/>
+    <item time="6" type="XY" target="n0_ir4q" tween="true" startValue="0,0" endValue="0,-30" duration="12"/>
+  </transition>
+</component>

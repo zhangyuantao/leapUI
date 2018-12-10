@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,90">
+  <displayList>
+    <text id="n30_ir4q" name="txt" xy="430,11" size="286,79" font="Rubik One" fontSize="68" color="#ffffff" vAlign="middle" autoSize="none" bold="true" text="1">
+      <relation target="n31_ir4q" sidePair="left-left,bottom-bottom"/>
+    </text>
+    <image id="n31_ir4q" name="n31" src="ir4qsrw" fileName="美术/关卡_03.png" xy="294,12"/>
+  </displayList>
+</component>

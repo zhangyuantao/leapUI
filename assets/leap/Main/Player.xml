@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="0,0">
+  <displayList>
+    <component id="n9_nrpe" name="ui" src="nrpesqd" fileName="Main/PlayerUI.xml" xy="0,0" scale="0.8,0.8"/>
+  </displayList>
+</component>

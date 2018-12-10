@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="100,100">
+  <displayList>
+    <component id="n0_nyia" name="n0" src="nyiassz" fileName="动画/0鼠标手引导.xml" xy="0,0" pivot="0.08,0.07" anchor="true"/>
+    <component id="n1_nyia" name="n1" src="nyiassq" fileName="动画/0引导按住屏幕转动.xml" xy="6,191" pivot="0.5,0" anchor="true">
+      <relation target="n0_nyia" sidePair="center-center,top-top"/>
+    </component>
+  </displayList>
+</component>

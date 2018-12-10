@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,1280" bgColor="#6666cc">
+  <displayList>
+    <graph id="n25_ht6n" name="n25" xy="0,0" size="720,1280" alpha="0.4" touchable="false" type="rect" lineSize="0" fillColor="#ff000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="Main/restartBtn.xml" xy="271,946" size="177,177" aspect="true">
+      <relation target="n29_ht6n" sidePair="top-top"/>
+    </component>
+    <text id="n29_ht6n" name="txt" xy="287,259" size="147,92" fontSize="66" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="得分">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n30_zmlu" name="txtScore" xy="10,362" size="700,125" font="Rubik One" fontSize="98" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="112345555">
+      <relation target="n29_ht6n" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n32_zmlu" name="txt" xy="311,530" size="95,56" fontSize="40" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="最佳">
+      <relation target="n30_zmlu" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n33_zmlu" name="txtScoreBest" xy="10,594" size="700,135" font="Rubik One" fontSize="70" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="12365555555lllllllllll">
+      <relation target="n29_ht6n" sidePair="center-center,top-top"/>
+    </text>
+  </displayList>
+</component>

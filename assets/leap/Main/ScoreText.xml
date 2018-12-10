@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="719,128">
+  <displayList>
+    <text id="n20_o1zj" name="txtScore" xy="-1,0" size="720,128" font="Rubik One" fontSize="100" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="none" text="123">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+  </displayList>
+</component>

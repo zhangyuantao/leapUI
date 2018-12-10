@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="92,45">
+  <displayList>
+    <text id="n0_ir4q" name="txt" xy="0,2" pivot="1,0" anchor="true" size="50,45" font="Rubik One" fontSize="40" color="#ffffff" align="right" vAlign="middle" autoSize="none" text="1"/>
+    <image id="n1_ty38" name="n1" src="ty38st2" fileName="动画/级跳.png" xy="0,1">
+      <relation target="n0_ir4q" sidePair="right-right"/>
+    </image>
+  </displayList>
+</component>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="40,40">
+  <displayList>
+    <image id="n18_pq4d" name="n18" src="f5tuspx" fileName="动画/合成 1_00000.png" xy="-40,-39" pivot="0.5,0.5" scale="0.8,0.8" color="#333333"/>
+    <graph id="n1_jytn" name="n1" xy="-11,-16" pivot="0.5,0.5" size="20,20" locked="true" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n2_jytn" name="n2" xy="-3,-8" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n3_jytn" name="n3" xy="-18,-12" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n4_jytn" name="n4" xy="-13,-4" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n5_jytn" name="n5" xy="-6,-3" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n6_jytn" name="n6" xy="-3,-16" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n7_jytn" name="n7" xy="-11,-14" pivot="0.5,0.5" size="30,30" alpha="0.77" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n8_jytn" name="n8" xy="-21,-16" pivot="0.5,0.5" size="30,30" alpha="0.62" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n9_jytn" name="n9" xy="-16,-19" pivot="0.5,0.5" size="30,30" alpha="0.62" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n12_jytn" name="n12" xy="-11,-1" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <graph id="n13_jytn" name="n13" xy="-10,-8" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+  </displayList>
+  <transition name="t0" autoPlayRepeat="-1">
+    <item time="0" type="Alpha" target="n12_jytn" tween="true" startValue="1" endValue="0" duration="12" ease="Linear"/>
+    <item time="0" type="Alpha" target="n13_jytn" value="1"/>
+    <item time="0" type="Alpha" target="n18_pq4d" tween="true" startValue="1" endValue="0" duration="7" ease="Linear"/>
+    <item time="0" type="Alpha" target="n9_jytn" tween="true" startValue="0" endValue="0.62" duration="2" ease="Linear"/>
+    <item time="0" type="Alpha" target="n6_jytn" tween="true" startValue="1" endValue="0" duration="12" ease="Linear"/>
+    <item time="0" type="Alpha" target="n3_jytn" tween="true" startValue="0" endValue="1" duration="3" ease="Linear"/>
+    <item time="0" type="Scale" target="n13_jytn" value="1,1"/>
+    <item time="0" type="Scale" target="n12_jytn" tween="true" startValue="1,1" endValue="1,1" duration="5" ease="Linear"/>
+    <item time="0" type="Scale" target="n1_jytn" tween="true" startValue="1,1" endValue="0,0" duration="12" ease="Linear"/>
+    <item time="0" type="Scale" target="n6_jytn" tween="true" startValue="1,1" endValue="0.8,0.8" duration="2" ease="Linear"/>
+    <item time="0" type="Scale" target="n5_jytn" tween="true" startValue="1,1" endValue="0,0" duration="12" ease="Linear"/>
+    <item time="0" type="Scale" target="n7_jytn" tween="true" startValue="0.5,0.5" endValue="0.7,0.7" duration="3" ease="Linear"/>
+    <item time="0" type="Scale" target="n4_jytn" tween="true" startValue="1,1" endValue="0,0" duration="12" ease="Linear"/>
+    <item time="0" type="Scale" target="n9_jytn" tween="true" startValue="0.3,0.3" endValue="1,1" duration="2" ease="Linear"/>
+    <item time="0" type="Scale" target="n2_jytn" tween="true" startValue="1,1" endValue="0,0" duration="12" ease="Linear"/>
+    <item time="0" type="Scale" target="n3_jytn" tween="true" startValue="1,1" endValue="0.44,0.44" duration="4" ease="Linear"/>
+    <item time="0" type="Scale" target="n8_jytn" tween="true" startValue="0,0" endValue="0.67,0.67" duration="4" ease="Linear"/>
+    <item time="0" type="Scale" target="n18_pq4d" tween="true" startValue="0.8,0.8" endValue="1,1" duration="7" ease="Linear"/>
+    <item time="0" type="XY" target="n12_jytn" tween="true" startValue="-11.5,-9.5" endValue="-31.5,4.5" duration="12" ease="Linear"/>
+    <item time="0" type="XY" target="n7_jytn" tween="true" startValue="-31,-24" endValue="-68.58,-33" duration="5" ease="Linear"/>
+    <item time="0" type="XY" target="n3_jytn" tween="true" startValue="-9,-23" endValue="-23.25,-49.25" duration="3" ease="Linear"/>
+    <item time="0" type="XY" target="n1_jytn" tween="true" startValue="-22,3" endValue="-50.88,10.88" duration="3" ease="Linear"/>
+    <item time="0" type="XY" target="n13_jytn" tween="true" startValue="-14,-16.25" endValue="-25.74,-38.98" duration="12" ease="Linear"/>
+    <item time="0" type="XY" target="n9_jytn" tween="true" startValue="-6.5,-19.5" endValue="-13.64,-31.59" duration="2" ease="Linear"/>
+    <item time="0" type="XY" target="n5_jytn" tween="true" startValue="-7,-4" endValue="12.88,20" duration="3" ease="Linear"/>
+    <item time="0" type="XY" target="n2_jytn" tween="true" startValue="6,1" endValue="38.88,-8.01" duration="3" ease="Linear"/>
+    <item time="0" type="XY" target="n4_jytn" tween="true" startValue="-14,-15" endValue="-23.63,24.5" duration="3" ease="Linear"/>
+    <item time="0" type="XY" target="n8_jytn" tween="true" startValue="-12,-7" endValue="-11,4" duration="12" ease="Linear"/>
+    <item time="0" type="XY" target="n6_jytn" tween="true" startValue="-4,-27" endValue="-1.25,-32.5" duration="3" ease="Linear"/>
+    <item time="2" type="Alpha" target="n9_jytn" tween="true" startValue="0.62" endValue="0" duration="10" ease="Linear"/>
+    <item time="2" type="Scale" target="n9_jytn" tween="true" startValue="1,1" endValue="0,0" duration="10" ease="Linear"/>
+    <item time="2" type="Scale" target="n6_jytn" tween="true" startValue="0.8,0.8" endValue="0,0" duration="10" ease="Linear"/>
+    <item time="2" type="XY" target="n9_jytn" tween="true" startValue="-13.64,-31.59" endValue="-12,-38.5" duration="10" ease="Linear"/>
+    <item time="3" type="Alpha" target="n3_jytn" tween="true" startValue="1" endValue="0" duration="9" ease="Linear"/>
+    <item time="3" type="Alpha" target="n13_jytn" tween="true" startValue="1" endValue="0" duration="9" ease="Linear"/>
+    <item time="3" type="Scale" target="n13_jytn" tween="true" startValue="1,1" endValue="0.3,0.3" duration="9" ease="Linear"/>
+    <item time="3" type="Scale" target="n7_jytn" tween="true" startValue="0.7,0.7" endValue="0,0" duration="9" ease="Linear"/>
+    <item time="3" type="XY" target="n2_jytn" tween="true" startValue="38.88,-8.01" endValue="51.5,-12" duration="9" ease="Linear"/>
+    <item time="3" type="XY" target="n5_jytn" tween="true" startValue="12.88,20" endValue="19.5,28" duration="9" ease="Linear"/>
+    <item time="3" type="XY" target="n1_jytn" tween="true" startValue="-50.88,10.88" endValue="-60.5,13.5" duration="9" ease="Linear"/>
+    <item time="3" type="XY" target="n4_jytn" tween="true" startValue="-23.63,24.5" endValue="-31.5,42" duration="9" ease="Linear"/>
+    <item time="3" type="XY" target="n3_jytn" tween="true" startValue="-23.25,-49.25" endValue="-28,-58" duration="9" ease="Linear"/>
+    <item time="3" type="XY" target="n6_jytn" tween="true" startValue="-1.25,-32.5" endValue="17.75,-61.25" duration="9" ease="Linear"/>
+    <item time="4" type="Scale" target="n3_jytn" tween="true" startValue="0.44,0.44" endValue="0,0" duration="8" ease="Linear"/>
+    <item time="4" type="Scale" target="n8_jytn" tween="true" startValue="0.67,0.67" endValue="0,0" duration="8" ease="Linear"/>
+    <item time="5" type="Scale" target="n12_jytn" tween="true" startValue="1,1" endValue="0,0" duration="7" ease="Linear"/>
+    <item time="5" type="XY" target="n7_jytn" tween="true" startValue="-68.58,-33" endValue="-78,-38" duration="7" ease="Linear"/>
+  </transition>
+</component>
