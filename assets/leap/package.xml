@@ -96,9 +96,9 @@
     <component id="ht6nsne" name="TextureBackground.xml" path="/Main/" exported="true"/>
     <image id="ht6nsns" name="diamondPattern.png" path="/leap资源/Texture2D/" scale="tile"/>
     <image id="ht6nso3" name="HolePattern.png" path="/leap资源/Texture2D/" scale="tile"/>
-    <image id="ht6nso9" name="linePatternAlt.png" path="/leap资源/Texture2D/" scale="tile"/>
+    <image id="ht6nso9" name="linePatternAlt.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
     <image id="ht6nsow" name="squarePattern.png" path="/leap资源/Texture2D/" scale="tile"/>
-    <image id="ht6nsox" name="strippedPattern.png" path="/leap资源/Texture2D/" scale="tile"/>
+    <image id="ht6nsox" name="strippedPattern.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
     <image id="ht6nsp7" name="trianglePattern.png" path="/leap资源/Texture2D/" scale="tile"/>
     <image id="ht6nsps" name="XPattern.png" path="/leap资源/Texture2D/" scale="tile"/>
     <image id="ht6nspt" name="zigzagPattern.png" path="/leap资源/Texture2D/" scale="tile"/>
@@ -332,6 +332,14 @@
     <image id="ihe6swn" name="引导2_03.png" path="/Main/gameHelp/"/>
     <image id="ihe6swo" name="引导3_03.png" path="/Main/gameHelp/"/>
     <image id="ihe6swp" name="引导4_03.png" path="/Main/gameHelp/"/>
+    <component id="fhuxswq" name="TrailItem.xml" path="/Main/" exported="true"/>
+    <image id="ol16swr" name="201772211555108200.jpeg" path="/leap资源/"/>
+    <image id="ol16sws" name="app_icon.png" path="/leap资源/"/>
+    <image id="ol16swt" name="201772211557329320.jpeg" path="/leap资源/"/>
+    <image id="ol16swu" name="201772211556542640.jpeg" path="/leap资源/"/>
+    <image id="ol16swv" name="201772211556097190.jpeg" path="/leap资源/"/>
+    <component id="ol16sww" name="Component2.xml" path="/leap资源/"/>
+    <image id="ol16swx" name="微信图片_20190224173042.png" path="/leap资源/界面参考/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="0,0">
+<component size="720,1280" pivot="0.5,0.5">
   <displayList>
-    <image id="n1_ht6n" name="n1" src="ht6nsns" fileName="Sprite/Texture/diamondPattern.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="200,200" hideByEditor="true" aspect="true" visible="false" alpha="0.5"/>
-    <image id="n2_ht6n" name="n2" src="ht6nso3" fileName="Sprite/Texture/HolePattern.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="150,150" hideByEditor="true" aspect="true" visible="false" alpha="0.5"/>
-    <image id="n3_ht6n" name="n3" src="ht6nso9" fileName="Sprite/Texture/linePatternAlt.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="200,200" hideByEditor="true" aspect="true" visible="false" alpha="0.5"/>
-    <image id="n4_ht6n" name="n4" src="ht6nsow" fileName="Sprite/Texture/squarePattern.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="86,84" hideByEditor="true" aspect="true" visible="false" alpha="0.5"/>
-    <image id="n5_ht6n" name="n5" src="ht6nsox" fileName="Sprite/Texture/strippedPattern.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="159,159" hideByEditor="true" aspect="true" visible="false" alpha="0.5"/>
-    <image id="n7_ht6n" name="n6" src="ht6nsps" fileName="Sprite/Texture/XPattern.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="100,100" hideByEditor="true" aspect="true" visible="false" alpha="0.5"/>
+    <image id="n1_ht6n" name="n1" src="ht6nsns" fileName="leap资源/Texture2D/diamondPattern.png" xy="360,640" pivot="0.5,0.5" anchor="true" size="1470,1470" hideByEditor="true" aspect="true" visible="false" alpha="0.5"/>
+    <image id="n2_ht6n" name="n2" src="ht6nso3" fileName="leap资源/Texture2D/HolePattern.png" xy="360,640" pivot="0.5,0.5" anchor="true" size="1470,1470" hideByEditor="true" visible="false" alpha="0.5"/>
+    <image id="n3_ht6n" name="n3" src="ht6nso9" fileName="leap资源/Texture2D/linePatternAlt.png" xy="360,640" pivot="0.5,0.5" anchor="true" size="1470,1470" hideByEditor="true" visible="false" alpha="0.5"/>
+    <image id="n4_ht6n" name="n4" src="ht6nsow" fileName="leap资源/Texture2D/squarePattern.png" xy="360,640" pivot="0.5,0.5" anchor="true" size="1470,1470" hideByEditor="true" visible="false" alpha="0.5"/>
+    <image id="n5_ht6n" name="n5" src="ht6nsox" fileName="leap资源/Texture2D/strippedPattern.png" xy="360,640" pivot="0.5,0.5" anchor="true" size="1470,1470" hideByEditor="true" visible="false" alpha="0.5"/>
+    <image id="n7_ht6n" name="n6" src="ht6nsps" fileName="leap资源/Texture2D/XPattern.png" xy="360,640" pivot="0.5,0.5" anchor="true" size="1470,1470" hideByEditor="true" visible="false" alpha="0.5"/>
   </displayList>
 </component>

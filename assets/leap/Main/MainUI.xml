@@ -4,10 +4,10 @@
     <component id="n21_o1zj" name="scoreTxt" src="o1zjsnb" fileName="Main/ScoreText.xml" xy="361,192" pivot="0.5,0.5" anchor="true">
       <relation target="n27_ir4q" sidePair="top-top"/>
     </component>
-    <component id="n26_ir4q" name="multTxt" src="la2gstg" fileName="美术/MultText.xml" xy="359,292" pivot="0.38,0.5" anchor="true">
+    <component id="n26_ir4q" name="multTxt" src="la2gstg" fileName="美术/MultText.xml" xy="360,320" pivot="0.5,0.5" anchor="true">
       <relation target="n21_o1zj" sidePair="top-top,center-center"/>
     </component>
-    <component id="n30_ir4q" name="levelTxt" src="ir4qsrx" fileName="Main/LevelText.xml" xy="360,348" pivot="0.5,0" anchor="true">
+    <component id="n30_ir4q" name="levelTxt" src="ir4qsrx" fileName="Main/LevelText.xml" xy="360,470" pivot="0.5,1" anchor="true">
       <relation target="n27_ir4q" sidePair="top-top"/>
     </component>
     <component id="n27_ir4q" name="newRecord" src="ir4qsr7" fileName="动画/NewRecord.xml" xy="297,90">

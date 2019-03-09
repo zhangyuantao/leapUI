@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" bgColor="#6666cc">
   <displayList>
-    <graph id="n25_ht6n" name="n25" xy="0,0" size="720,1280" alpha="0.4" touchable="false" type="rect" lineSize="0" fillColor="#ff000000">
+    <graph id="n25_ht6n" name="n25" xy="0,0" size="720,1284" alpha="0.8" touchable="false" type="rect" lineSize="0" fillColor="#ff000000">
       <relation target="" sidePair="width-width,height-height"/>
     </graph>
-    <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="Main/restartBtn.xml" xy="271,946" size="177,177" aspect="true">
+    <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="Main/restartBtn.xml" xy="300,946" size="120,120" aspect="true">
       <relation target="n29_ht6n" sidePair="top-top"/>
     </component>
-    <text id="n29_ht6n" name="txt" xy="287,259" size="147,92" fontSize="66" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="得分">
+    <text id="n29_ht6n" name="txt" xy="221,259" size="278,86" font="Rubik One" fontSize="66" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="SCORE">
       <relation target="" sidePair="center-center,top-top"/>
     </text>
-    <text id="n30_zmlu" name="txtScore" xy="10,362" size="700,125" font="Rubik One" fontSize="98" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="112345555">
+    <text id="n30_zmlu" name="txtScore" xy="10,343" size="700,125" font="Rubik One" fontSize="100" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="112345555">
       <relation target="n29_ht6n" sidePair="center-center,top-top"/>
     </text>
-    <text id="n32_zmlu" name="txt" xy="311,530" size="95,56" fontSize="40" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="最佳">
+    <text id="n32_zmlu" name="txt" xy="256,511" size="205,78" font="Rubik One" fontSize="60" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="BEST">
       <relation target="n30_zmlu" sidePair="center-center,top-top"/>
     </text>
-    <text id="n33_zmlu" name="txtScoreBest" xy="10,594" size="700,135" font="Rubik One" fontSize="70" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="12365555555lllllllllll">
+    <text id="n33_zmlu" name="txtScoreBest" xy="10,588" size="700,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="12365555555lllllllllll">
       <relation target="n29_ht6n" sidePair="center-center,top-top"/>
     </text>
   </displayList>
