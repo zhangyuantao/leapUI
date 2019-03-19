@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="245,62">
+  <displayList>
+    <graph id="n76_ii48" name="n76" xy="0,0" size="245,62" type="rect" lineSize="0" corner="16"/>
+    <text id="n77_ii48" name="n77" xy="10,16" pivot="0.5,0" size="225,34" fontSize="22" color="#333333" align="center" vAlign="middle" autoSize="none" bold="true" text="放心，这是道具!"/>
+  </displayList>
+</component>

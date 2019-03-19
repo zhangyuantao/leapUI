@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" designImageOffsetX="-563" designImageAlpha="28" designImageLayer="1">
   <displayList>
-    <graph id="n22_dr8i" name="n22" xy="0,0" size="720,1280" type="rect" lineSize="0" fillColor="#ffce1c28"/>
-    <component id="n27_zmlu" name="n27" src="r8407x" fileName="Main/SceneMask.xml" xy="0,0" locked="true"/>
+    <graph id="n22_dr8i" name="n22" xy="0,0" size="720,1280" type="rect" lineSize="0" fillColor="#ffce1c28">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n27_zmlu" name="n27" src="r8407x" fileName="Main/SceneMask.xml" xy="0,0" locked="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
   </displayList>
 </component>

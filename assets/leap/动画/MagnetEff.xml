@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <image id="n102_v2ge" name="n102" src="nyiasso" fileName="动画/圈线_00027.png" xy="0,0" pivot="0.5,0.5" anchor="true"/>
-    <image id="n103_vuv0" name="n103" src="nyiasso" fileName="动画/圈线_00027.png" xy="0,0" pivot="0.5,0.5" anchor="true"/>
-    <image id="n104_ktxl" name="n104" src="nyiasso" fileName="动画/圈线_00027.png" xy="0,0" pivot="0.5,0.5" anchor="true"/>
-    <image id="n105_ktxl" name="n105" src="nyiasso" fileName="动画/圈线_00027.png" xy="0,0" pivot="0.5,0.5" anchor="true"/>
+    <image id="n102_v2ge" name="n102" src="f5tuspy" fileName="动画/圈_00027.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="167,171" aspect="true"/>
+    <image id="n103_vuv0" name="n103" src="f5tuspy" fileName="动画/圈_00027.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="167,171" aspect="true"/>
+    <image id="n104_ktxl" name="n104" src="nyiasso" fileName="动画/圈线_00027.png" xy="0,0" pivot="0.49,0.49" anchor="true" size="180,184" aspect="true"/>
+    <image id="n105_ktxl" name="n105" src="nyiasso" fileName="动画/圈线_00027.png" xy="0,0" pivot="0.49,0.49" anchor="true" size="185,183" aspect="true"/>
   </displayList>
   <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
     <item time="0" type="Alpha" target="n104_ktxl" value="0"/>

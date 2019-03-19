@@ -19,7 +19,7 @@
     <image id="o1zjskx" name="BlackHole.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsky" name="Checkmark.png" path="/leap资源/Texture2D/"/>
     <image id="o1zjskz" name="circle_outline.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsl0" name="corner.png" path="/leap资源/Sprite/"/>
+    <image id="o1zjsl0" name="corner.png" path="/leap资源/Sprite/" scale="9grid" scale9grid="57,57,114,114"/>
     <image id="o1zjsl1" name="corners_medium.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsl2" name="DropdownArrow.png" path="/leap资源/Texture2D/"/>
     <image id="o1zjsl3" name="Explode.png" path="/leap资源/Sprite/"/>
@@ -111,10 +111,7 @@
     <component id="f5tusq0" name="CollisionAni.xml" path="/动画/" exported="true"/>
     <component id="f5tusq1" name="DeadAni.xml" path="/动画/" exported="true"/>
     <component id="f5tusq5" name="PlayerFace.xml" path="/Main/"/>
-    <image id="f5tusq6" name="小球.png" path="/动画/"/>
     <component id="f5tusq7" name="PlayerEyes.xml" path="/Main/"/>
-    <image id="f5tusq8" name="眼睛.png" path="/动画/"/>
-    <image id="f5tusq9" name="嘴.png" path="/动画/"/>
     <image id="nrpesqc" name="无敌圈.png" path="/美术/"/>
     <component id="nrpesqd" name="PlayerUI.xml" path="/Main/" exported="true"/>
     <image id="9oeysqf" name="无敌圈小.png" path="/美术/"/>
@@ -146,9 +143,6 @@
     <component id="ir4qsr5" name="AddScoreAni.xml" path="/动画/" exported="true"/>
     <image id="ir4qsr6" name="大球.png" path="/美术/"/>
     <component id="ir4qsr7" name="NewRecord.xml" path="/动画/"/>
-    <image id="ir4qsr8" name="新纪录面板.png" path="/动画/" scale="9grid" scale9grid="18,8,85,22"/>
-    <image id="ir4qsr9" name="本月新纪录.png" path="/动画/"/>
-    <image id="ir4qsra" name="guangxiao_00027.png" path="/动画/"/>
     <image id="ir4qsrb" name="白球.png" path="/美术/"/>
     <image id="ir4qsrc" name="黑白.png" path="/美术/"/>
     <image id="ir4qsrd" name="无敌.png" path="/美术/"/>
@@ -195,15 +189,9 @@
     <image id="nyiassl" name="暂停_07.png" path="/美术/"/>
     <component id="nyiassm" name="继续按钮.xml" path="/美术/Folder1/"/>
     <image id="nyiasso" name="圈线_00027.png" path="/动画/"/>
-    <image id="nyiassp" name="shou.png" path="/动画/"/>
-    <component id="nyiassq" name="0引导按住屏幕转动.xml" path="/动画/"/>
-    <image id="nyiassr" name="按住.png" path="/动画/"/>
     <component id="nyiasss" name="Guide1.xml" path="/动画/" exported="true"/>
-    <image id="nyiasst" name="引导框_03.png" path="/动画/"/>
     <component id="nyiassu" name="Guide3.xml" path="/动画/" exported="true"/>
-    <image id="nyiassv" name="引导框_11.png" path="/动画/"/>
     <component id="nyiassw" name="Guide2.xml" path="/动画/" exported="true"/>
-    <image id="nyiassx" name="引导框_07.png" path="/动画/"/>
     <component id="nyiassy" name="Guide0.xml" path="/动画/" exported="true"/>
     <component id="nyiassz" name="0鼠标手引导.xml" path="/动画/"/>
     <component id="nyiast0" name="GuidePanel.xml" path="/Main/" exported="true"/>
@@ -300,7 +288,7 @@
     <image id="n5d2svp" name="PlayerSprite6.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svq" name="playIcon.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svr" name="restartIcon.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svs" name="speechBubble_plain.png" path="/leap资源/Sprite/"/>
+    <image id="n5d2svs" name="speechBubble_plain.png" path="/leap资源/Sprite/" scale="9grid" scale9grid="297,130,246,260"/>
     <image id="n5d2svt" name="twitter.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svu" name="UIMask.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svv" name="UISprite.png" path="/leap资源/Sprite/"/>
@@ -327,11 +315,6 @@
     <sound id="n5d2swi" name="WhooshesImpacts_Impact_64_edited.wav" path="/leap资源/AudioClip/"/>
     <component id="zmluswj" name="ReadyBg.xml" path="/Main/"/>
     <component id="zmluswk" name="Title.xml" path="/Main/"/>
-    <component id="ihe6swl" name="guideCom.xml" path="/Main/gameHelp/"/>
-    <image id="ihe6swm" name="引导1_03.png" path="/Main/gameHelp/"/>
-    <image id="ihe6swn" name="引导2_03.png" path="/Main/gameHelp/"/>
-    <image id="ihe6swo" name="引导3_03.png" path="/Main/gameHelp/"/>
-    <image id="ihe6swp" name="引导4_03.png" path="/Main/gameHelp/"/>
     <component id="fhuxswq" name="TrailItem.xml" path="/Main/" exported="true"/>
     <image id="ol16swr" name="201772211555108200.jpeg" path="/leap资源/"/>
     <image id="ol16sws" name="app_icon.png" path="/leap资源/"/>
@@ -340,6 +323,14 @@
     <image id="ol16swv" name="201772211556097190.jpeg" path="/leap资源/"/>
     <component id="ol16sww" name="Component2.xml" path="/leap资源/"/>
     <image id="ol16swx" name="微信图片_20190224173042.png" path="/leap资源/界面参考/"/>
+    <component id="ii48swy" name="Component3.xml" path="/动画/"/>
+    <component id="ii48swz" name="Component4.xml" path="/动画/"/>
+    <component id="ii48sx0" name="Component5.xml" path="/动画/"/>
+    <component id="ii48sx1" name="Component6.xml" path="/动画/"/>
+    <image id="ii48sx2" name="n76.png" path="/动画/"/>
+    <component id="f373sx3" name="ThunderEff.xml" path="/Main/"/>
+    <component id="f373sx4" name="PlusEff.xml" path="/Main/"/>
+    <image id="prl3sx8" name="plusEff.png" path="/美术/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>

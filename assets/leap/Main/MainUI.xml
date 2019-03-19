@@ -10,13 +10,13 @@
     <component id="n30_ir4q" name="levelTxt" src="ir4qsrx" fileName="Main/LevelText.xml" xy="360,470" pivot="0.5,1" anchor="true">
       <relation target="n27_ir4q" sidePair="top-top"/>
     </component>
-    <component id="n27_ir4q" name="newRecord" src="ir4qsr7" fileName="动画/NewRecord.xml" xy="297,90">
+    <component id="n27_ir4q" name="newRecord" src="ir4qsr7" fileName="动画/NewRecord.xml" xy="290,90">
       <relation target="" sidePair="top-top"/>
     </component>
     <component id="n22_o1zj" name="pauseBtn" src="ir4qsru" fileName="美术/暂停按钮.xml" xy="30,25" aspect="true">
       <relation target="" sidePair="top-top,right-right"/>
     </component>
-    <component id="n23_o1zj" name="musicBtn" src="ir4qsrr" fileName="美术/音乐按钮.xml" xy="108,25" aspect="true">
+    <component id="n23_o1zj" name="musicBtn" src="ir4qsrr" fileName="美术/音乐按钮.xml" xy="109,25" aspect="true">
       <relation target="" sidePair="right-right,top-top"/>
     </component>
     <component id="n32_nyia" name="pausePanel" src="nyiassj" fileName="Main/PausePanel.xml" xy="0,0" hideByEditor="true">
