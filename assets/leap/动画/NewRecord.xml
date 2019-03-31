@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="140,36">
   <displayList>
-    <component id="n23_pjhb" name="n23" src="ii48sx1" fileName="动画/Component6.xml" xy="0,0" pivot="0.5,0.5"/>
+    <image id="n23_pjhb" name="n23" src="ho8osxm" fileName="美术/n76.png" xy="0,0" pivot="0.5,0.5"/>
   </displayList>
   <transition name="t0">
     <item time="0" type="Alpha" target="n23_pjhb" value="0"/>

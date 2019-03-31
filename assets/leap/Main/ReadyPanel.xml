@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" designImageAlpha="100" designImageLayer="1">
   <displayList>
-    <component id="n36_zmlu" name="n36" src="zmluswj" fileName="Main/ReadyBg.xml" xy="0,0" size="720,1280">
+    <component id="n36_zmlu" name="n36" src="zmluswj" fileName="Main/ReadyBg.xml" xy="0,0" size="720,1280" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
     <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="美术/Folder1/排行榜按钮.xml" xy="294,990">
       <relation target="n19_pjhb" sidePair="top-top,center-center"/>
     </component>
-    <graph id="n40_zmlu" name="n40" xy="-5,233" pivot="0.5,0.5" size="730,290" skew="0,-4" alpha="0.6" type="rect" lineSize="0" fillColor="#ff000000">
+    <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="-4,233" pivot="0.5,0.5" size="730,290" skew="0,-4" alpha="0.6" touchable="false">
       <relation target="n39_zmlu" sidePair="top-top,center-center"/>
       <relation target="" sidePair="width-width"/>
-    </graph>
+    </component>
     <component id="n19_pjhb" name="startBtn" src="nyiassa" fileName="美术/Folder1/开始按钮.xml" xy="280,700">
       <relation target="" sidePair="middle-middle,center-center"/>
     </component>
-    <component id="n39_zmlu" name="n39" src="zmluswk" fileName="Main/Title.xml" xy="359,300" hideByEditor="true">
+    <component id="n39_zmlu" name="n39" src="zmluswk" fileName="Main/Title.xml" xy="360,300" touchable="false">
       <relation target="" sidePair="middle-middle,center-center"/>
     </component>
   </displayList>

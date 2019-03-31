@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280">
   <displayList>
-    <graph id="n21_nyia" name="n21" xy="0,0" size="720,1280" alpha="0.2" type="rect" lineSize="0" fillColor="#ff000000">
+    <component id="n21_nyia" name="n21" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="0,0" size="720,1280" alpha="0.2">
       <relation target="" sidePair="width-width,height-height"/>
-    </graph>
+    </component>
     <component id="n19_pjhb" name="continueBtn" src="nyiassm" fileName="美术/Folder1/继续按钮.xml" xy="280,500">
       <relation target="" sidePair="middle-middle"/>
     </component>

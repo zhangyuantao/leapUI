@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <component id="n9_nrpe" name="plusEff" src="f373sx4" fileName="Main/PlusEff.xml" xy="0,0" pivot="0.5,0.5" anchor="true" visible="false"/>
-    <component id="n10_ktxl" name="magnetEff" src="ktxlst4" fileName="动画/MagnetEff.xml" xy="0,0" visible="false"/>
-    <component id="n8_f5tu" name="thunderEff" src="f373sx3" fileName="Main/ThunderEff.xml" xy="0,0" pivot="0.5,0.5" anchor="true" size="0,0" visible="false"/>
+    <component id="n9_nrpe" name="plusEff" src="f373sx4" fileName="Main/PlusEff.xml" xy="0,0" pivot="0.5,0.5" anchor="true" visible="false" touchable="false"/>
+    <component id="n10_ktxl" name="magnetEff" src="ktxlst4" fileName="动画/MagnetEff.xml" xy="0,0" visible="false" touchable="false"/>
+    <component id="n8_f5tu" name="thunderEff" src="f373sx3" fileName="Main/ThunderEff.xml" xy="0,0" pivot="0.5,0.5" anchor="true" size="0,0" visible="false" touchable="false"/>
     <component id="n6_f5tu" name="face" src="f5tusq5" fileName="Main/PlayerFace.xml" xy="0,0" pivot="0.5,0.5" anchor="true" touchable="false"/>
   </displayList>
 </component>

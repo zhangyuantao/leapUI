@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1,1">
+  <displayList>
+    <image id="n0_mvnp" name="n0" src="i8p0sxj" fileName="美术/whiteImg.png" xy="0,0" size="1,1">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+</component>

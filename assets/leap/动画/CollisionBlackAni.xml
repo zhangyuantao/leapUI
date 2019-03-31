@@ -2,24 +2,24 @@
 <component size="40,40">
   <displayList>
     <image id="n18_pq4d" name="n18" src="f5tuspx" fileName="动画/合成 1_00000.png" xy="-40,-39" pivot="0.5,0.5" scale="0.8,0.8" color="#333333"/>
-    <graph id="n1_jytn" name="n1" xy="-11,-16" pivot="0.5,0.5" size="20,20" locked="true" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n2_jytn" name="n2" xy="-3,-8" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n3_jytn" name="n3" xy="-18,-12" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n4_jytn" name="n4" xy="-13,-4" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n5_jytn" name="n5" xy="-6,-3" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n6_jytn" name="n6" xy="-3,-16" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n7_jytn" name="n7" xy="-11,-14" pivot="0.5,0.5" size="30,30" alpha="0.77" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n8_jytn" name="n8" xy="-21,-16" pivot="0.5,0.5" size="30,30" alpha="0.62" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n9_jytn" name="n9" xy="-16,-19" pivot="0.5,0.5" size="30,30" alpha="0.62" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n12_jytn" name="n12" xy="-11,-1" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
-    <graph id="n13_jytn" name="n13" xy="-10,-8" pivot="0.5,0.5" size="20,20" type="eclipse" lineSize="0" lineColor="#ffffffff"/>
+    <image id="n1_jytn" name="n1" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-11,-16"/>
+    <image id="n2_jytn" name="n2" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-3,-8" pivot="0.5,0.5" size="20,20"/>
+    <image id="n3_jytn" name="n3" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-18,-12" pivot="0.5,0.5" size="20,20"/>
+    <image id="n4_jytn" name="n4" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-13,-4" pivot="0.5,0.5" size="20,20"/>
+    <image id="n5_jytn" name="n5" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-6,-3" pivot="0.5,0.5" size="20,20"/>
+    <image id="n6_jytn" name="n6" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-3,-16" pivot="0.5,0.5" size="20,20"/>
+    <image id="n7_jytn" name="n7" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-11,-14" pivot="0.5,0.5" size="30,30" alpha="0.77"/>
+    <image id="n8_jytn" name="n8" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-21,-16" pivot="0.5,0.5" size="30,30" alpha="0.62"/>
+    <image id="n9_jytn" name="n9" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-16,-19" pivot="0.5,0.5" size="30,30" alpha="0.62"/>
+    <image id="n12_jytn" name="n12" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-11,-1" pivot="0.5,0.5" size="20,20"/>
+    <image id="n13_jytn" name="n13" src="yj0vsxf" fileName="美术/wihteImgCircle.png" xy="-10,-8" pivot="0.5,0.5" size="20,20"/>
   </displayList>
   <transition name="t0" autoPlayRepeat="-1">
-    <item time="0" type="Alpha" target="n12_jytn" tween="true" startValue="1" endValue="0" duration="12" ease="Linear"/>
+    <item time="0" type="Alpha" target="n6_jytn" tween="true" startValue="1" endValue="0" duration="12" ease="Linear"/>
     <item time="0" type="Alpha" target="n13_jytn" value="1"/>
     <item time="0" type="Alpha" target="n18_pq4d" tween="true" startValue="1" endValue="0" duration="7" ease="Linear"/>
     <item time="0" type="Alpha" target="n9_jytn" tween="true" startValue="0" endValue="0.62" duration="2" ease="Linear"/>
-    <item time="0" type="Alpha" target="n6_jytn" tween="true" startValue="1" endValue="0" duration="12" ease="Linear"/>
+    <item time="0" type="Alpha" target="n12_jytn" tween="true" startValue="1" endValue="0" duration="12" ease="Linear"/>
     <item time="0" type="Alpha" target="n3_jytn" tween="true" startValue="0" endValue="1" duration="3" ease="Linear"/>
     <item time="0" type="Scale" target="n13_jytn" value="1,1"/>
     <item time="0" type="Scale" target="n12_jytn" tween="true" startValue="1,1" endValue="1,1" duration="5" ease="Linear"/>
