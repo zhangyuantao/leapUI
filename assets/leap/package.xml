@@ -335,6 +335,7 @@
     <image id="i8p0sxi" name="blackImg.png" path="/美术/" scale="9grid" scale9grid="1,1,1,1"/>
     <image id="i8p0sxj" name="whiteImg.png" path="/美术/" scale="9grid" scale9grid="1,1,1,1"/>
     <image id="ho8osxm" name="n76.png" path="/美术/"/>
+    <component id="spo4sxn" name="关闭按钮.xml" path="/美术/Folder1/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>
