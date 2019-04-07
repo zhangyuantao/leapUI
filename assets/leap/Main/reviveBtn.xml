@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="98,98" extention="Button">
+  <displayList>
+    <image id="n0_o1zj" name="n0" src="n5d2svj" fileName="leap资源/Sprite/facebookcircle.png" xy="0,0" size="100,100">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

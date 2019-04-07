@@ -4,7 +4,7 @@
     <component id="n25_ht6n" name="n25" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="0,0" size="720,1284" alpha="0.8" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="Main/restartBtn.xml" xy="300,946" size="120,120" aspect="true">
+    <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="Main/restartBtn.xml" xy="311,900" size="98,98" aspect="true">
       <relation target="n29_ht6n" sidePair="top-top"/>
     </component>
     <text id="n29_ht6n" name="txt" xy="221,259" size="277,86" font="Rubik One" fontSize="66" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="SCORE">
@@ -19,5 +19,11 @@
     <text id="n33_zmlu" name="txtScoreBest" xy="10,588" size="700,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="12365555555lllllllllll">
       <relation target="n29_ht6n" sidePair="center-center,top-top"/>
     </text>
+    <component id="n34_q7am" name="quiteBtn" src="q7amsxo" fileName="Main/quiteBtn.xml" xy="460,900">
+      <relation target="n27_ht6n" sidePair="left-right,top-top"/>
+    </component>
+    <component id="n35_hubl" name="reviveBtn" src="hublsxp" fileName="Main/reviveBtn.xml" xy="162,900">
+      <relation target="n27_ht6n" sidePair="left-left,top-top"/>
+    </component>
   </displayList>
 </component>
