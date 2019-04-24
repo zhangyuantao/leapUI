@@ -29,7 +29,7 @@
     <image id="o1zjsl8" name="foot-shadow.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsl9" name="hand.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsla" name="heartIcon.png" path="/leap资源/Texture2D/"/>
-    <image id="o1zjslb" name="leaderboardIcon_android.png" path="/leap资源/Sprite/"/>
+    <image id="o1zjslb" name="home.png" path="/leap资源/Sprite/"/>
     <image id="o1zjslc" name="Leaderboards.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsld" name="load_icon.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsle" name="magnet.png" path="/leap资源/Sprite/"/>
@@ -66,7 +66,7 @@
     <image id="o1zjsmc" name="Thunderbolt.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsmd" name="tube.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsmf" name="UIMask.png" path="/leap资源/Texture2D/"/>
-    <image id="o1zjsmg" name="UISprite.png" path="/leap资源/Texture2D/"/>
+    <image id="o1zjsmg" name="UISprite.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="8,8,16,16"/>
     <image id="o1zjsmh" name="UnitCircleBlackFinal.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsmj" name="VideoIcon.png" path="/leap资源/Texture2D/"/>
     <image id="o1zjsmk" name="vignette-full-2.png" path="/leap资源/Sprite/"/>
@@ -99,9 +99,9 @@
     <image id="ht6nso9" name="linePatternAlt.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
     <image id="ht6nsow" name="squarePattern.png" path="/leap资源/Texture2D/" scale="tile"/>
     <image id="ht6nsox" name="strippedPattern.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
-    <image id="ht6nsp7" name="trianglePattern.png" path="/leap资源/Texture2D/" scale="tile"/>
+    <image id="ht6nsp7" name="trianglePattern.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
     <image id="ht6nsps" name="XPattern.png" path="/leap资源/Texture2D/" scale="tile"/>
-    <image id="ht6nspt" name="zigzagPattern.png" path="/leap资源/Texture2D/" scale="tile"/>
+    <image id="ht6nspt" name="zigzagPattern.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
     <component id="ht6nspu" name="ResultPanel.xml" path="/Main/" exported="true"/>
     <component id="ht6nspv" name="restartBtn.xml" path="/Main/"/>
     <component id="f5tuspw" name="ExplodeAni.xml" path="/动画/" exported="true"/>
@@ -209,7 +209,7 @@
     <image id="n5d2stk" name="微信图片_20181011225718.png" path="/leap资源/界面参考/"/>
     <image id="n5d2stl" name="Anton SDF Atlas.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2stm" name="Bangers SDF Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stn" name="box.png" path="/leap资源/Texture2D/"/>
+    <image id="n5d2stn" name="box.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="5,5,2,2"/>
     <image id="n5d2sto" name="Brushed Metal 3.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2stp" name="button active.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2stq" name="button hover.png" path="/leap资源/Texture2D/"/>
@@ -227,7 +227,7 @@
     <image id="n5d2su2" name="Fruit Jelly (B&amp;W).png" path="/leap资源/Texture2D/"/>
     <image id="n5d2su3" name="Gradient Diagonal (Color).png" path="/leap资源/Texture2D/"/>
     <image id="n5d2su4" name="horizontal scrollbar thumb.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su5" name="horizontal scrollbar.png" path="/leap资源/Texture2D/"/>
+    <image id="n5d2su5" name="horizontal scrollbar.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="6,4,4,6"/>
     <image id="n5d2su6" name="horizontalslider.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2su7" name="languageBackground.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2su8" name="LiberationSans SDF Atlas.png" path="/leap资源/Texture2D/"/>
@@ -248,9 +248,9 @@
     <image id="n5d2sun" name="slidert humb hover.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2suo" name="Soft.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2sup" name="SpriteAtlasTexture-GameSpritesFinal-2048x1024-fmt47.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suq" name="textfield hover.png" path="/leap资源/Texture2D/"/>
+    <image id="n5d2suq" name="textfield hover.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="4,4,3,3"/>
     <image id="n5d2sur" name="textfield on.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sus" name="textfield.png" path="/leap资源/Texture2D/"/>
+    <image id="n5d2sus" name="textfield.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="5,5,1,2"/>
     <image id="n5d2sut" name="toggle active.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2suu" name="toggle hover.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2suv" name="toggle on active.png" path="/leap资源/Texture2D/"/>
@@ -271,8 +271,8 @@
     <image id="n5d2sva" name="vertical scrollbar.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2svb" name="verticalslider.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2svc" name="WarningSign.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2svd" name="window on.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sve" name="window.png" path="/leap资源/Texture2D/"/>
+    <image id="n5d2svd" name="window on.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="7,11,3,4"/>
+    <image id="n5d2sve" name="window.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="6,10,3,4"/>
     <image id="n5d2svf" name="Wipe Pattern - Circle.png" path="/leap资源/Texture2D/"/>
     <image id="n5d2svg" name="Background.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svh" name="Checkmark.png" path="/leap资源/Sprite/"/>
@@ -289,7 +289,7 @@
     <image id="n5d2svs" name="speechBubble_plain.png" path="/leap资源/Sprite/" scale="9grid" scale9grid="297,130,246,260"/>
     <image id="n5d2svt" name="twitter.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svu" name="UIMask.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svv" name="UISprite.png" path="/leap资源/Sprite/"/>
+    <image id="n5d2svv" name="UISprite.png" path="/leap资源/Sprite/" scale="9grid" scale9grid="8,8,16,16"/>
     <image id="n5d2svw" name="UnitySplash-cube.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svx" name="VideoIcon.png" path="/leap资源/Sprite/"/>
     <sound id="n5d2sw0" name="blackhole4.wav" path="/leap资源/AudioClip/"/>
@@ -338,6 +338,25 @@
     <component id="spo4sxn" name="关闭按钮.xml" path="/美术/Folder1/"/>
     <component id="q7amsxo" name="quiteBtn.xml" path="/Main/"/>
     <component id="hublsxp" name="reviveBtn.xml" path="/Main/"/>
+    <image id="jp4nsxq" name="share1.png" path="/" scale="" atlas="alone"/>
+    <image id="jp4nsxr" name="startBtn.png" path="/" scale="" atlas="alone"/>
+    <movieclip id="i1ozsxs" name="0动画黑洞.jta" path="/动画/"/>
+    <image id="p4jvsxt" name="box.png" path="/排行榜/assets/"/>
+    <image id="p4jvsxu" name="icon.png" path="/排行榜/assets/"/>
+    <image id="p4jvsxv" name="line.png" path="/排行榜/assets/"/>
+    <image id="p4jvsxw" name="nextBtn.png" path="/排行榜/assets/"/>
+    <image id="p4jvsxx" name="panel.png" path="/排行榜/assets/"/>
+    <image id="p4jvsxy" name="preBtn.png" path="/排行榜/assets/"/>
+    <image id="p4jvsxz" name="rankback.png" path="/排行榜/assets/" scale="9grid" scale9grid="39,24,75,1"/>
+    <image id="p4jvsy0" name="rankingtitle.png" path="/排行榜/assets/"/>
+    <image id="p4jvsy1" name="top1.png" path="/排行榜/assets/"/>
+    <image id="p4jvsy2" name="top2.png" path="/排行榜/assets/"/>
+    <image id="p4jvsy3" name="top3.png" path="/排行榜/assets/"/>
+    <component id="p4jvsy4" name="Component6.xml" path="/排行榜/"/>
+    <component id="sq67sy5" name="shareBtn.xml" path="/Main/"/>
+    <component id="sq67sy6" name="homeBtn.xml" path="/Main/"/>
+    <image id="sq67sy7" name="share.png" path="/leap资源/Sprite/"/>
+    <image id="sq67sy8" name="HolePattern-2.png" path="/leap资源/Texture2D/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>

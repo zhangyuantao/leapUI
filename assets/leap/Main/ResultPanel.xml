@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" bgColor="#6666cc">
   <displayList>
-    <component id="n25_ht6n" name="n25" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="0,0" size="720,1284" alpha="0.8" touchable="false">
+    <component id="n25_ht6n" name="n25" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="0,0" size="720,1284" alpha="0.3" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="Main/restartBtn.xml" xy="311,900" size="98,98" aspect="true">
+    <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="Main/restartBtn.xml" xy="290,925" pivot="0.5,0.5" size="140,140" aspect="true">
       <relation target="n29_ht6n" sidePair="top-top"/>
     </component>
-    <text id="n29_ht6n" name="txt" xy="221,259" size="277,86" font="Rubik One" fontSize="66" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="SCORE">
-      <relation target="" sidePair="center-center,top-top"/>
+    <text id="n29_ht6n" name="txt" xy="221,210" size="277,86" font="Rubik One" fontSize="66" color="#ffffff" align="center" leading="0" letterSpacing="5" autoSize="none" bold="true" text="SCORE">
+      <relation target="" sidePair="center-center,middle-middle"/>
     </text>
-    <text id="n30_zmlu" name="txtScore" xy="10,343" size="700,125" font="Rubik One" fontSize="100" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="112345555">
+    <text id="n30_zmlu" name="txtScore" xy="10,284" size="700,128" font="Rubik One" fontSize="100" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="112345555">
       <relation target="n29_ht6n" sidePair="center-center,top-top"/>
     </text>
-    <text id="n32_zmlu" name="txt" xy="256,511" size="201,78" font="Rubik One" fontSize="60" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="BEST">
-      <relation target="n30_zmlu" sidePair="center-center,top-top"/>
+    <text id="n32_zmlu" name="txt" xy="256,420" size="201,78" font="Rubik One" fontSize="60" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="BEST">
+      <relation target="" sidePair="center-center,middle-middle"/>
     </text>
-    <text id="n33_zmlu" name="txtScoreBest" xy="10,588" size="700,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="12365555555lllllllllll">
-      <relation target="n29_ht6n" sidePair="center-center,top-top"/>
+    <text id="n33_zmlu" name="txtScoreBest" xy="10,488" size="700,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="12365555555lllllllllll">
+      <relation target="n32_zmlu" sidePair="center-center,top-top"/>
     </text>
-    <component id="n34_q7am" name="quiteBtn" src="q7amsxo" fileName="Main/quiteBtn.xml" xy="460,900">
+    <component id="n34_q7am" name="homeBtn" src="sq67sy6" fileName="Main/homeBtn.xml" xy="500,967">
       <relation target="n27_ht6n" sidePair="left-right,top-top"/>
     </component>
-    <component id="n35_hubl" name="reviveBtn" src="hublsxp" fileName="Main/reviveBtn.xml" xy="162,900">
-      <relation target="n27_ht6n" sidePair="left-left,top-top"/>
+    <component id="n35_hubl" name="reviveBtn" src="hublsxp" fileName="Main/reviveBtn.xml" xy="315,800">
+      <relation target="" sidePair="middle-middle"/>
+    </component>
+    <component id="n36_sq67" name="shareBtn" src="sq67sy5" fileName="Main/shareBtn.xml" xy="122,967">
+      <relation target="n27_ht6n" sidePair="top-top,right-right"/>
+    </component>
+    <component id="n38_rpky" name="n38" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="0,620" pivot="0.5,0" size="720,124" alpha="0.64">
+      <relation target="" sidePair="middle-middle"/>
     </component>
   </displayList>
 </component>

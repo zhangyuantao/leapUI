@@ -7,7 +7,7 @@
     <component id="n20_o1zj" name="mainUI" src="o1zjsn8" fileName="Main/MainUI.xml" xy="0,0" size="720,1280">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n21_nyia" name="readyPanel" src="nyiassg" fileName="Main/ReadyPanel.xml" xy="0,0" locked="true">
+    <component id="n21_nyia" name="readyPanel" src="nyiassg" fileName="Main/ReadyPanel.xml" xy="0,0" locked="true" hideByEditor="true">
       <relation target="" sidePair="height-height,width-width"/>
     </component>
     <component id="n22_d2yd" name="resultPanel" src="ht6nspu" fileName="Main/ResultPanel.xml" xy="0,0" locked="true" hideByEditor="true" visible="false">

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="98,98" extention="Button">
+  <displayList>
+    <image id="n0_o1zj" name="n0" src="o1zjslb" fileName="leap资源/Sprite/home.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="1.10"/>
+</component>

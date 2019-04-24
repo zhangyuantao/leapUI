@@ -4,18 +4,27 @@
     <component id="n36_zmlu" name="n36" src="zmluswj" fileName="Main/ReadyBg.xml" xy="0,0" size="720,1280" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="美术/Folder1/排行榜按钮.xml" xy="294,990">
+    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="美术/Folder1/排行榜按钮.xml" xy="311,923" size="98,98" aspect="true">
       <relation target="n19_pjhb" sidePair="top-top,center-center"/>
     </component>
     <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="-4,233" pivot="0.5,0.5" size="730,290" skew="0,-4" alpha="0.6" touchable="false">
       <relation target="n39_zmlu" sidePair="top-top,center-center"/>
       <relation target="" sidePair="width-width"/>
     </component>
-    <component id="n19_pjhb" name="startBtn" src="nyiassa" fileName="美术/Folder1/开始按钮.xml" xy="280,700">
+    <component id="n19_pjhb" name="startBtn" src="nyiassa" fileName="美术/Folder1/开始按钮.xml" xy="360,780" pivot="0.5,0.5" anchor="true">
       <relation target="" sidePair="middle-middle,center-center"/>
     </component>
     <component id="n39_zmlu" name="n39" src="zmluswk" fileName="Main/Title.xml" xy="360,300" touchable="false">
       <relation target="" sidePair="middle-middle,center-center"/>
     </component>
+    <component id="n41_mtf0" name="shareBtn" src="sq67sy5" fileName="Main/shareBtn.xml" xy="311,1067">
+      <relation target="n19_pjhb" sidePair="top-top,center-center"/>
+    </component>
   </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n39_zmlu" tween="true" startValue="0" endValue="3" duration="24" ease="Quad.InOut"/>
+    <item time="24" type="Rotation" target="n39_zmlu" tween="true" startValue="3" endValue="-3" duration="72"/>
+    <item time="96" type="Rotation" target="n39_zmlu" tween="true" startValue="-3" endValue="0" duration="48"/>
+    <item time="144" type="Rotation" target="n39_zmlu" tween="true" startValue="0"/>
+  </transition>
 </component>
