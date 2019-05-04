@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="245,62" pivot="1,1" anchor="true">
+<component size="230,62" pivot="1,1" anchor="true">
   <displayList>
-    <component id="n77_uj7r" name="n77" src="ii48swz" fileName="动画/Component4.xml" xy="-30,-30" pivot="1,1"/>
+    <component id="n77_uj7r" name="n77" src="ii48swz" fileName="动画/Component4.xml" xy="0,0" pivot="1,1"/>
   </displayList>
   <transition name="t0">
     <item time="0" type="Scale" target="n77_uj7r" tween="true" startValue="0,0" endValue="1.1,1.1" duration="4" ease="Linear"/>

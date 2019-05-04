@@ -57,7 +57,7 @@
     <image id="o1zjsm3" name="smallcorner.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsm4" name="SoundIcon.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsm5" name="SoundIconOff.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm6" name="speechBubble_plain.png" path="/leap资源/Texture2D/"/>
+    <image id="o1zjsm6" name="speechBubble_plain.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="34,12,1,1"/>
     <image id="o1zjsm7" name="Spike.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsm8" name="spikedCenter.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsm9" name="spikedCenterRed.png" path="/leap资源/Sprite/"/>
@@ -357,6 +357,9 @@
     <component id="sq67sy6" name="homeBtn.xml" path="/Main/"/>
     <image id="sq67sy7" name="share.png" path="/leap资源/Sprite/"/>
     <image id="sq67sy8" name="HolePattern-2.png" path="/leap资源/Texture2D/"/>
+    <image id="o0w9sy9" name="leaderboardIcon_android.png" path="/leap资源/Sprite/"/>
+    <image id="o0w9syc" name="按住.png" path="/美术/"/>
+    <component id="batmsyd" name="RankBack.xml" path="/Main/" exported="true"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>

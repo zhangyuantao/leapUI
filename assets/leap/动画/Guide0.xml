@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="100,100">
+<component size="0,0">
   <displayList>
-    <component id="n0_nyia" name="n0" src="nyiassz" fileName="动画/0鼠标手引导.xml" xy="0,0" pivot="0.08,0.07" anchor="true"/>
+    <component id="n0_nyia" name="n0" src="nyiassz" fileName="动画/0鼠标手引导.xml" xy="0,0" pivot="0.08,0.07" anchor="true" aspect="true"/>
+    <image id="n1_o0w9" name="n1" src="o0w9syc" fileName="美术/按住.png" xy="-157,233"/>
   </displayList>
 </component>

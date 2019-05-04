@@ -13,8 +13,8 @@
     <component id="n22_d2yd" name="resultPanel" src="ht6nspu" fileName="Main/ResultPanel.xml" xy="0,0" locked="true" hideByEditor="true" visible="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n23_spo4" name="btnCloseRank" src="spo4sxn" fileName="美术/Folder1/关闭按钮.xml" xy="311,1125">
-      <relation target="" sidePair="bottom-bottom"/>
+    <component id="n23_spo4" name="btnCloseRank" src="spo4sxn" fileName="美术/Folder1/关闭按钮.xml" xy="0,150" pivot="0.5,0.5" scale="0.6,0.6">
+      <relation target="" sidePair="left-left,middle-middle"/>
     </component>
   </displayList>
 </component>

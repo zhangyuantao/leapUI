@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,1280" designImageAlpha="100" designImageLayer="1">
+<component size="720,1280" designImageAlpha="100" designImageLayer="1" adaptationTest="FitSize">
   <displayList>
     <component id="n36_zmlu" name="n36" src="zmluswj" fileName="Main/ReadyBg.xml" xy="0,0" size="720,1280" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="美术/Folder1/排行榜按钮.xml" xy="311,923" size="98,98" aspect="true">
-      <relation target="n19_pjhb" sidePair="top-top,center-center"/>
+    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="美术/Folder1/排行榜按钮.xml" xy="34,1011" size="98,98" aspect="true">
+      <relation target="" sidePair="bottom-bottom,left-left"/>
     </component>
     <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="-4,233" pivot="0.5,0.5" size="730,290" skew="0,-4" alpha="0.6" touchable="false">
       <relation target="n39_zmlu" sidePair="top-top,center-center"/>
@@ -17,8 +17,8 @@
     <component id="n39_zmlu" name="n39" src="zmluswk" fileName="Main/Title.xml" xy="360,300" touchable="false">
       <relation target="" sidePair="middle-middle,center-center"/>
     </component>
-    <component id="n41_mtf0" name="shareBtn" src="sq67sy5" fileName="Main/shareBtn.xml" xy="311,1067">
-      <relation target="n19_pjhb" sidePair="top-top,center-center"/>
+    <component id="n41_mtf0" name="shareBtn" src="sq67sy5" fileName="Main/shareBtn.xml" xy="34,1155">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
     </component>
   </displayList>
   <transition name="t0" autoPlay="true" autoPlayRepeat="-1">

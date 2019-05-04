@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="245,62">
   <displayList>
-    <graph id="n76_ii48" name="n76" xy="0,0" size="245,62" type="rect" lineSize="0" corner="16"/>
-    <text id="n77_ii48" name="n77" xy="13,16" pivot="0.5,0" size="225,34" fontSize="22" color="#333333" align="center" vAlign="middle" autoSize="none" bold="true" text="齿轮锋利，小心掉落！"/>
+    <image id="n76_ii48" name="n76" src="o1zjsm6" fileName="leap资源/Texture2D/speechBubble_plain.png" xy="0,0" size="245,62"/>
+    <text id="n77_ii48" name="n77" xy="8,10" pivot="0.5,0" size="245,34" fontSize="22" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="齿轮锋利，小心掉落！"/>
   </displayList>
 </component>

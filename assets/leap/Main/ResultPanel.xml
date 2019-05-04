@@ -28,7 +28,7 @@
     <component id="n36_sq67" name="shareBtn" src="sq67sy5" fileName="Main/shareBtn.xml" xy="122,967">
       <relation target="n27_ht6n" sidePair="top-top,right-right"/>
     </component>
-    <component id="n38_rpky" name="n38" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="0,620" pivot="0.5,0" size="720,124" alpha="0.64">
+    <component id="n38_rpky" name="n38" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="0,620" pivot="0.5,0" size="720,124" skew="0,4" alpha="0.64">
       <relation target="" sidePair="middle-middle"/>
     </component>
   </displayList>
