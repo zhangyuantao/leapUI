@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="65,63">
   <displayList>
-    <image id="n55_ihe6" name="n55" src="o1zjslq" fileName="leap资源/Sprite/playerSprite-shadow2.png" xy="-1,-1" pivot="0.5,0.5" size="66,64" aspect="true" alpha="0.3" color="#000000"/>
-    <image id="n49_pjhb" name="n49" src="o1zjslq" fileName="leap资源/Sprite/playerSprite-shadow2.png" xy="6,6" pivot="0.5,0.5" size="52,50" aspect="true"/>
-    <component id="n53_tt8v" name="eyes" src="f5tusq7" fileName="Main/PlayerEyes.xml" xy="21,17" pivot="0.5,0.5" aspect="true" scale="0.7,0.7"/>
+    <image id="n49_pjhb" name="n49" src="nwteszn" fileName="Sprite替换/new/earth.png" xy="-18,-19" pivot="0.5,0.5" aspect="true"/>
+    <component id="n53_tt8v" name="eyes" src="f5tusq7" fileName="Main/PlayerEyes.xml" xy="18,13" pivot="0.5,0.5" aspect="true" scale="0.7,0.7"/>
   </displayList>
 </component>

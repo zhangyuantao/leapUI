@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <image id="n3_o1zj" name="n3" src="o1zjslv" fileName="leap资源/Sprite/radial_gradient.png" xy="0,0" pivot="0.5,0.5" anchor="true" scale="6,6" alpha="0.2" blend="add"/>
-    <image id="n4_q6ss" name="n4" src="o1zjsm9" fileName="leap资源/Sprite/spikedCenterRed.png" xy="0,0" pivot="0.5,0.5" anchor="true" hideByEditor="true" aspect="true" visible="false"/>
-    <image id="n0_o1zj" name="n0" src="o1zjsm8" fileName="leap资源/Sprite/spikedCenter.png" xy="0,0" pivot="0.5,0.5" anchor="true" aspect="true"/>
-    <text id="n2_o1zj" name="multiNum" xy="-87,-51" pivot="0.5,0.5" size="176,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" leading="0" text="x99">
+    <image id="n3_o1zj" name="n3" src="o1zjslv" fileName="leap资源/Sprite/radial_gradient.png" xy="0,0" pivot="0.5,0.5" anchor="true" scale="8,8" alpha="0.1"/>
+    <component id="n4_q6ss" name="n0" src="nwtet16" fileName="Main/obstruct/Component8.xml" xy="0,0" size="0,0"/>
+    <text id="n2_o1zj" name="multiNum" xy="-115,-51" pivot="0.5,0.5" size="232,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="none" text="x99">
       <relation target="" sidePair="middle-middle"/>
     </text>
   </displayList>
+  <transition name="t0">
+    <item time="0" type="Color" target="n4_q6ss" tween="true" startValue="#ffffff" endValue="#ff0000" duration="18" ease="Sine.InOut"/>
+    <item time="18" type="Color" target="n4_q6ss" tween="true" startValue="#ff0000" endValue="#ffffff" duration="18" ease="Sine.InOut"/>
+    <item time="36" type="Color" target="n4_q6ss" tween="true" startValue="#ffffff" ease="Sine.InOut"/>
+  </transition>
 </component>

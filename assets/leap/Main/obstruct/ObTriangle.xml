@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <image id="n6_o1zj" name="n0" src="o1zjslz" fileName="leap资源/Sprite/roundedTriangle.png" xy="0,0" pivot="0.5,0.52" anchor="true" aspect="true"/>
-    <component id="n7_sn3c" name="p0" src="o3t2snc" fileName="Main/point.xml" xy="0,-21" visible="false" touchable="false"/>
-    <component id="n9_sn3c" name="p1" src="o3t2snc" fileName="Main/point.xml" xy="15,0" visible="false" touchable="false"/>
-    <component id="n8_sn3c" name="p2" src="o3t2snc" fileName="Main/point.xml" xy="19,15" visible="false" touchable="false"/>
-    <component id="n10_ir4q" name="p3" src="o3t2snc" fileName="Main/point.xml" xy="-18,15" visible="false" touchable="false"/>
-    <component id="n11_ir4q" name="p4" src="o3t2snc" fileName="Main/point.xml" xy="-15,0" visible="false" touchable="false"/>
+    <image id="n6_o1zj" name="n0" src="nwtet0i" fileName="Sprite替换/Spike.png" xy="0,0" pivot="0.5,0.52" anchor="true" aspect="true"/>
+    <component id="n7_sn3c" name="p0" src="o3t2snc" fileName="Main/point.xml" xy="0,-20" visible="false" touchable="false"/>
+    <component id="n9_sn3c" name="p1" src="o3t2snc" fileName="Main/point.xml" xy="12,-6" visible="false" touchable="false"/>
+    <component id="n8_sn3c" name="p2" src="o3t2snc" fileName="Main/point.xml" xy="12,20" visible="false" touchable="false"/>
+    <component id="n10_ir4q" name="p3" src="o3t2snc" fileName="Main/point.xml" xy="-11,20" visible="false" touchable="false"/>
+    <component id="n11_ir4q" name="p4" src="o3t2snc" fileName="Main/point.xml" xy="-11,-6" visible="false" touchable="false"/>
   </displayList>
 </component>

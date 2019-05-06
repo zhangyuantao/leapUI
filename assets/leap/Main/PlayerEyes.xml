@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="32,18">
   <displayList>
-    <image id="n53_tt8v" name="n53" src="o1zjsl5" fileName="leap资源/Sprite/eye2.png" xy="0,0" pivot="0.5,0.5"/>
-    <image id="n54_tt8v" name="n54" src="o1zjsl5" fileName="leap资源/Sprite/eye2.png" xy="21,0" pivot="0.5,0.5"/>
+    <image id="n53_tt8v" name="n53" src="nwtesz2" fileName="Sprite替换/eye2.png" xy="-6,-2" pivot="0.5,0.5" aspect="true" rotation="7.8"/>
+    <image id="n54_tt8v" name="n54" src="nwtesz2" fileName="Sprite替换/eye2.png" xy="24,-2" pivot="0.5,0.5" aspect="true" rotation="8.1"/>
   </displayList>
   <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
     <item time="0" type="Scale" target="n53_tt8v" tween="true" startValue="1,1" endValue="1.3,0.1" duration="4"/>
@@ -11,10 +11,10 @@
     <item time="4" type="Scale" target="n53_tt8v" tween="true" startValue="1.3,0.1" endValue="1,1" duration="4"/>
     <item time="50" type="Scale" target="n53_tt8v" tween="true" startValue="1,1" endValue="1.2,0.1" duration="3" ease="Linear"/>
     <item time="50" type="Scale" target="n54_tt8v" tween="true" startValue="1,1" endValue="1.2,0.1" duration="3"/>
-    <item time="55" type="Scale" target="n54_tt8v" tween="true" startValue="1.2,0.1" endValue="1,1" duration="7"/>
     <item time="55" type="Scale" target="n53_tt8v" tween="true" startValue="1.2,0.1" endValue="1,1" duration="7"/>
-    <item time="62" type="Scale" target="n54_tt8v" tween="true" startValue="1,1" endValue="1.2,0.1" duration="3"/>
+    <item time="55" type="Scale" target="n54_tt8v" tween="true" startValue="1.2,0.1" endValue="1,1" duration="7"/>
     <item time="62" type="Scale" target="n53_tt8v" tween="true" startValue="1,1" endValue="1.2,0.1" duration="3"/>
+    <item time="62" type="Scale" target="n54_tt8v" tween="true" startValue="1,1" endValue="1.2,0.1" duration="3"/>
     <item time="68" type="Scale" target="n53_tt8v" tween="true" startValue="1.2,0.1" endValue="1,1" duration="2"/>
     <item time="68" type="Scale" target="n54_tt8v" tween="true" startValue="1.2,0.1" endValue="1,1" duration="2"/>
     <item time="104" type="Scale" target="n53_tt8v" value="1,1"/>

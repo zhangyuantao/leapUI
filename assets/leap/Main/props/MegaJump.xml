@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <image id="n7_ir4q" name="n1" src="o1zjslf" fileName="leap资源/Sprite/megaJump.png" xy="-25,-25" pivot="0.5,0.5" aspect="true"/>
+    <image id="n7_ir4q" name="n1" src="nwteszc" fileName="Sprite替换/megaJump.png" xy="-25,-25" pivot="0.5,0.5" aspect="true"/>
   </displayList>
 </component>

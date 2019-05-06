@@ -3,77 +3,19 @@
   <resources>
     <component id="v6ig3x" name="MainWindow.xml" path="/Main/" exported="true"/>
     <component id="r8407x" name="SceneMask.xml" path="/Main/"/>
-    <image id="o1zjskk" name="0.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjskl" name="1.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjskm" name="2.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjskn" name="3.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsko" name="4.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjskp" name="5.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjskq" name="6.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjskr" name="7.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsks" name="8.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjskt" name="9.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsku" name="achievementIcon.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjskv" name="achievementIcon_android.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjskw" name="Background.png" path="/leap资源/Texture2D/"/>
-    <image id="o1zjskx" name="BlackHole.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsky" name="Checkmark.png" path="/leap资源/Texture2D/"/>
-    <image id="o1zjskz" name="circle_outline.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsl0" name="corner.png" path="/leap资源/Sprite/" scale="9grid" scale9grid="57,57,114,114"/>
-    <image id="o1zjsl1" name="corners_medium.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsl2" name="DropdownArrow.png" path="/leap资源/Texture2D/"/>
-    <image id="o1zjsl3" name="Explode.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsl4" name="ExplosionSprite.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsl5" name="eye2.png" path="/leap资源/Sprite/"/>
+    <image id="o1zjsku" name="rankIcon.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsl7" name="finger.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsl8" name="foot-shadow.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsl9" name="hand.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsla" name="heartIcon.png" path="/leap资源/Texture2D/"/>
     <image id="o1zjslb" name="home.png" path="/leap资源/Sprite/"/>
     <image id="o1zjslc" name="Leaderboards.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsld" name="load_icon.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsle" name="magnet.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslf" name="megaJump.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslg" name="MusicIcon.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslh" name="MusicIconOff.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsll" name="nothanks.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslm" name="OutlineCircle.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsln" name="pause.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslo" name="PlainSquare.png" path="/leap资源/Texture2D/" scale="tile"/>
-    <image id="o1zjslp" name="playerSprite-outline.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslq" name="playerSprite-shadow2.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslr" name="PlayerSprite6.png" path="/leap资源/Texture2D/"/>
-    <image id="o1zjsls" name="playIcon.png" path="/leap资源/Texture2D/"/>
-    <image id="o1zjslt" name="Plus.png" path="/leap资源/Sprite/"/>
     <image id="o1zjslu" name="quitIcon.png" path="/leap资源/Sprite/"/>
     <image id="o1zjslv" name="radial_gradient.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslw" name="rateIcon.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslx" name="restartIcon.png" path="/leap资源/Texture2D/"/>
-    <image id="o1zjsly" name="restoreButton2.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjslz" name="roundedTriangle.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm0" name="roundedTriangle_allBlack.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm1" name="RoundSquare.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm2" name="settingsButton.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm3" name="smallcorner.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm4" name="SoundIcon.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm5" name="SoundIconOff.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm6" name="speechBubble_plain.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="34,12,1,1"/>
+    <image id="o1zjsm6" name="speechBubble_plain.png" path="/leap资源/Sprite/" scale="9grid" scale9grid="34,12,1,1"/>
     <image id="o1zjsm7" name="Spike.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm8" name="spikedCenter.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsm9" name="spikedCenterRed.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsma" name="spikes3.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsmb" name="Star.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsmc" name="Thunderbolt.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsmd" name="tube.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsmf" name="UIMask.png" path="/leap资源/Texture2D/"/>
-    <image id="o1zjsmg" name="UISprite.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="8,8,16,16"/>
-    <image id="o1zjsmh" name="UnitCircleBlackFinal.png" path="/leap资源/Sprite/"/>
-    <image id="o1zjsmj" name="VideoIcon.png" path="/leap资源/Texture2D/"/>
     <image id="o1zjsmk" name="vignette-full-2.png" path="/leap资源/Sprite/"/>
     <image id="o1zjsml" name="WhiteAlt2.png" path="/leap资源/Sprite/"/>
     <component id="o1zjsmm" name="SpikeCenter.xml" path="/Main/" exported="true"/>
     <component id="o1zjsms" name="Player.xml" path="/Main/" exported="true"/>
-    <component id="o1zjsmt" name="ScoreBall.xml" path="/Main/props/" exported="true"/>
+    <component id="o1zjsmt" name="ScoreBall_new.xml" path="/Main/props/" exported="true"/>
     <component id="o1zjsmu" name="Star.xml" path="/Main/props/" exported="true"/>
     <component id="o1zjsmv" name="Magnet.xml" path="/Main/props/" exported="true"/>
     <component id="o1zjsmw" name="Thunderbolt.xml" path="/Main/props/" exported="true"/>
@@ -83,248 +25,82 @@
     <component id="o1zjsn0" name="Explode.xml" path="/Main/props/" exported="true"/>
     <component id="o1zjsn1" name="ObCircle.xml" path="/Main/obstruct/" exported="true"/>
     <component id="o1zjsn2" name="ExplodeSpike.xml" path="/Main/props/" exported="true"/>
-    <component id="o1zjsn3" name="ObSquare.xml" path="/Main/obstruct/" exported="true"/>
+    <component id="o1zjsn3" name="ObSquare_new.xml" path="/Main/obstruct/" exported="true"/>
     <component id="o1zjsn4" name="ObTriangle.xml" path="/Main/obstruct/" exported="true"/>
     <component id="o1zjsn5" name="ObTriangleBlack.xml" path="/Main/obstruct/"/>
-    <component id="o1zjsn6" name="ObTube.xml" path="/Main/obstruct/" exported="true"/>
+    <component id="o1zjsn6" name="ObTube.xml" path="/Main/obstruct/"/>
     <component id="o1zjsn7" name="BlackHole.xml" path="/Main/props/"/>
     <component id="o1zjsn8" name="MainUI.xml" path="/Main/" exported="true"/>
-    <component id="o1zjsn9" name="pauseBtn.xml" path="/Main/"/>
-    <component id="o1zjsna" name="musicBtn.xml" path="/Main/"/>
     <component id="o1zjsnb" name="ScoreText.xml" path="/Main/" exported="true"/>
     <component id="o3t2snc" name="point.xml" path="/Main/"/>
     <component id="ht6nsne" name="TextureBackground.xml" path="/Main/" exported="true"/>
-    <image id="ht6nsns" name="diamondPattern.png" path="/leap资源/Texture2D/" scale="tile"/>
-    <image id="ht6nso3" name="HolePattern.png" path="/leap资源/Texture2D/" scale="tile"/>
-    <image id="ht6nso9" name="linePatternAlt.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
-    <image id="ht6nsow" name="squarePattern.png" path="/leap资源/Texture2D/" scale="tile"/>
-    <image id="ht6nsox" name="strippedPattern.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
-    <image id="ht6nsp7" name="trianglePattern.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
-    <image id="ht6nsps" name="XPattern.png" path="/leap资源/Texture2D/" scale="tile"/>
-    <image id="ht6nspt" name="zigzagPattern.png" path="/leap资源/Texture2D/" scale="tile" duplicatePadding="true"/>
+    <image id="ht6nsns" name="diamondPattern.png" path="/leap资源/Sprite/" scale="tile"/>
+    <image id="ht6nso3" name="HolePattern.png" path="/leap资源/Sprite/" scale="tile"/>
+    <image id="ht6nso9" name="linePatternAlt.png" path="/leap资源/Sprite/" scale="tile" duplicatePadding="true"/>
+    <image id="ht6nsow" name="squarePattern.png" path="/leap资源/Sprite/" scale="tile"/>
+    <image id="ht6nsox" name="strippedPattern.png" path="/leap资源/Sprite/" scale="tile" duplicatePadding="true"/>
+    <image id="ht6nsp7" name="trianglePattern.png" path="/leap资源/Sprite/" scale="tile" duplicatePadding="true"/>
+    <image id="ht6nsps" name="XPattern.png" path="/leap资源/Sprite/" scale="tile"/>
+    <image id="ht6nspt" name="zigzagPattern.png" path="/leap资源/Sprite/" scale="tile" duplicatePadding="true"/>
     <component id="ht6nspu" name="ResultPanel.xml" path="/Main/" exported="true"/>
     <component id="ht6nspv" name="restartBtn.xml" path="/Main/"/>
-    <component id="f5tuspw" name="ExplodeAni.xml" path="/动画/" exported="true"/>
-    <image id="f5tuspx" name="合成 1_00000.png" path="/动画/"/>
-    <image id="f5tuspy" name="圈_00027.png" path="/动画/"/>
-    <image id="f5tuspz" name="光球_00027(1).png" path="/动画/"/>
-    <component id="f5tusq0" name="CollisionAni.xml" path="/动画/" exported="true"/>
-    <component id="f5tusq1" name="DeadAni.xml" path="/动画/" exported="true"/>
+    <component id="f5tuspw" name="ExplodeAni.xml" path="/Main/" exported="true"/>
+    <image id="f5tuspx" name="合成 1_00000.png" path="/美术/"/>
+    <image id="f5tuspy" name="圈_00027.png" path="/美术/"/>
+    <image id="f5tuspz" name="光球_00027(1).png" path="/美术/"/>
+    <component id="f5tusq0" name="CollisionAni.xml" path="/Main/" exported="true"/>
+    <component id="f5tusq1" name="DeadAni.xml" path="/Main/" exported="true"/>
     <component id="f5tusq5" name="PlayerFace.xml" path="/Main/"/>
     <component id="f5tusq7" name="PlayerEyes.xml" path="/Main/"/>
-    <image id="nrpesqc" name="无敌圈.png" path="/美术/"/>
     <component id="nrpesqd" name="PlayerUI.xml" path="/Main/" exported="true"/>
     <image id="9oeysqf" name="无敌圈小.png" path="/美术/"/>
-    <component id="ir4qsqg" name="CollisionBlackAni.xml" path="/动画/" exported="true"/>
-    <font id="ir4qsqh" name="numFont1.fnt" path="/位图字体/" exported="true"/>
-    <image id="ir4qsqi" name="x.png" path="/位图字体/"/>
-    <image id="ir4qsqj" name="x0.png" path="/位图字体/"/>
-    <image id="ir4qsqk" name="x1.png" path="/位图字体/"/>
-    <image id="ir4qsql" name="x2.png" path="/位图字体/"/>
-    <image id="ir4qsqm" name="x3.png" path="/位图字体/"/>
-    <image id="ir4qsqn" name="x4.png" path="/位图字体/"/>
-    <image id="ir4qsqo" name="x5.png" path="/位图字体/"/>
-    <image id="ir4qsqp" name="x6.png" path="/位图字体/"/>
-    <image id="ir4qsqq" name="x7.png" path="/位图字体/"/>
-    <image id="ir4qsqr" name="x8.png" path="/位图字体/"/>
-    <image id="ir4qsqs" name="x9.png" path="/位图字体/"/>
-    <font id="ir4qsqt" name="numFont0.fnt" path="/位图字体/" exported="true"/>
-    <image id="ir4qsqu" name="+.png" path="/位图字体/"/>
-    <image id="ir4qsqv" name="+0.png" path="/位图字体/"/>
-    <image id="ir4qsqw" name="+1.png" path="/位图字体/"/>
-    <image id="ir4qsqx" name="+2.png" path="/位图字体/"/>
-    <image id="ir4qsqy" name="+3.png" path="/位图字体/"/>
-    <image id="ir4qsqz" name="+4.png" path="/位图字体/"/>
-    <image id="ir4qsr0" name="+5.png" path="/位图字体/"/>
-    <image id="ir4qsr1" name="+6.png" path="/位图字体/"/>
-    <image id="ir4qsr2" name="+7.png" path="/位图字体/"/>
-    <image id="ir4qsr3" name="+8.png" path="/位图字体/"/>
-    <image id="ir4qsr4" name="+9.png" path="/位图字体/"/>
-    <component id="ir4qsr5" name="AddScoreAni.xml" path="/动画/" exported="true"/>
-    <image id="ir4qsr6" name="大球.png" path="/美术/"/>
-    <component id="ir4qsr7" name="NewRecord.xml" path="/动画/"/>
-    <image id="ir4qsrb" name="白球.png" path="/美术/"/>
-    <image id="ir4qsrc" name="黑白.png" path="/美术/"/>
-    <image id="ir4qsrd" name="无敌.png" path="/美术/"/>
-    <image id="ir4qsre" name="无敌一圈.png" path="/美术/"/>
-    <image id="ir4qsrf" name="泡.png" path="/美术/"/>
-    <image id="ir4qsrg" name="闪电.png" path="/美术/"/>
-    <image id="ir4qsrh" name="磁铁.png" path="/美术/"/>
-    <image id="ir4qsri" name="散弹.png" path="/美术/"/>
-    <image id="ir4qsrj" name="弹跳.png" path="/美术/"/>
-    <image id="ir4qsrl" name="子弹.png" path="/美术/"/>
-    <image id="ir4qsrm" name="散弹_.png" path="/美术/"/>
-    <component id="ir4qsrn" name="离开.xml" path="/美术/"/>
-    <image id="ir4qsro" name="离开.png" path="/美术/"/>
-    <component id="ir4qsrp" name="说明.xml" path="/美术/"/>
-    <image id="ir4qsrq" name="说明.png" path="/美术/"/>
+    <component id="ir4qsqg" name="CollisionBlackAni.xml" path="/Main/" exported="true"/>
+    <component id="ir4qsr5" name="AddScoreAni.xml" path="/Main/" exported="true"/>
+    <component id="ir4qsr7" name="NewRecord.xml" path="/Main/"/>
     <component id="ir4qsrr" name="音乐按钮.xml" path="/美术/"/>
     <image id="ir4qsrs" name="音乐开.png" path="/美术/"/>
     <image id="ir4qsrt" name="音乐关.png" path="/美术/"/>
     <component id="ir4qsru" name="暂停按钮.xml" path="/美术/"/>
     <image id="ir4qsrv" name="暂停.png" path="/美术/"/>
-    <image id="ir4qsrw" name="关卡_03.png" path="/美术/"/>
     <component id="ir4qsrx" name="LevelText.xml" path="/Main/"/>
-    <image id="nyiasrz" name="开始界面.png" path="/美术/Folder1/"/>
-    <image id="nyiass0" name="云3.png" path="/美术/Folder1/"/>
-    <image id="nyiass1" name="云2.png" path="/美术/Folder1/"/>
-    <image id="nyiass2" name="云1.png" path="/美术/Folder1/"/>
-    <image id="nyiass3" name="云.png" path="/美术/Folder1/"/>
-    <image id="nyiass4" name="星星.png" path="/美术/Folder1/"/>
-    <image id="nyiass5" name="飞跃吧.png" path="/美术/Folder1/"/>
-    <component id="nyiass6" name="离开.xml" path="/美术/Folder1/"/>
-    <image id="nyiass7" name="离开.png" path="/美术/Folder1/"/>
-    <component id="nyiass8" name="说明.xml" path="/美术/Folder1/"/>
-    <image id="nyiass9" name="说明.png" path="/美术/Folder1/"/>
-    <component id="nyiassa" name="开始按钮.xml" path="/美术/Folder1/"/>
-    <image id="nyiassc" name="开始按钮圈.png" path="/美术/Folder1/"/>
-    <image id="nyiasse" name="排行榜按钮.png" path="/美术/Folder1/"/>
-    <image id="nyiassf" name="开始 拷贝.jpg" path="/美术/Folder1/"/>
+    <component id="nyiass6" name="离开.xml" path="/美术/"/>
+    <image id="nyiass7" name="离开.png" path="/美术/"/>
+    <component id="nyiassa" name="开始按钮.xml" path="/美术/"/>
     <component id="nyiassg" name="ReadyPanel.xml" path="/Main/" exported="true"/>
-    <image id="nyiassh" name="yun_03.png" path="/美术/"/>
-    <image id="nyiassi" name="readyBg.png" path="/美术/" scale="9grid" scale9grid="0,700,720,14"/>
     <component id="nyiassj" name="PausePanel.xml" path="/Main/"/>
-    <image id="nyiassk" name="暂停_03.png" path="/美术/"/>
     <image id="nyiassl" name="暂停_07.png" path="/美术/"/>
-    <component id="nyiassm" name="继续按钮.xml" path="/美术/Folder1/"/>
-    <image id="nyiasso" name="圈线_00027.png" path="/动画/"/>
-    <component id="nyiasss" name="Guide1.xml" path="/动画/" exported="true"/>
-    <component id="nyiassu" name="Guide3.xml" path="/动画/" exported="true"/>
-    <component id="nyiassw" name="Guide2.xml" path="/动画/" exported="true"/>
-    <component id="nyiassy" name="Guide0.xml" path="/动画/" exported="true"/>
-    <component id="nyiassz" name="0鼠标手引导.xml" path="/动画/"/>
+    <image id="nyiasso" name="圈线_00027.png" path="/美术/"/>
+    <component id="nyiasss" name="Guide1.xml" path="/Main/" exported="true"/>
+    <component id="nyiassu" name="Guide3.xml" path="/Main/" exported="true"/>
+    <component id="nyiassw" name="Guide2.xml" path="/Main/" exported="true"/>
+    <component id="nyiassy" name="Guide0.xml" path="/Main/" exported="true"/>
+    <component id="nyiassz" name="0鼠标手引导.xml" path="/Main/"/>
     <component id="nyiast0" name="GuidePanel.xml" path="/Main/" exported="true"/>
-    <component id="ty38st1" name="JumpAni.xml" path="/动画/" exported="true"/>
-    <image id="ty38st2" name="级跳.png" path="/动画/"/>
-    <component id="ty38st3" name="Component1.xml" path="/动画/"/>
-    <component id="ktxlst4" name="MagnetEff.xml" path="/动画/"/>
-    <image id="ktxlst7" name="123465.png" path="/美术/"/>
-    <image id="q2rsstb" name="防沉迷.png" path="/美术/"/>
-    <component id="q2rsstc" name="排行榜按钮.xml" path="/美术/Folder1/"/>
-    <image id="la2gste" name="翻倍.png" path="/美术/"/>
+    <component id="ty38st1" name="JumpAni.xml" path="/Main/" exported="true"/>
+    <image id="ty38st2" name="级跳.png" path="/美术/"/>
+    <component id="ty38st3" name="Component1.xml" path="/Main/"/>
+    <component id="ktxlst4" name="MagnetEff.xml" path="/Main/"/>
+    <component id="q2rsstc" name="排行榜按钮.xml" path="/美术/"/>
     <component id="la2gstg" name="MultText.xml" path="/Main/"/>
     <image id="n5d2sth" name="微信图片_20181011225702.png" path="/leap资源/界面参考/"/>
     <image id="n5d2sti" name="微信图片_20181011225710.png" path="/leap资源/界面参考/"/>
     <image id="n5d2stj" name="微信图片_20181011225714.png" path="/leap资源/界面参考/"/>
     <image id="n5d2stk" name="微信图片_20181011225718.png" path="/leap资源/界面参考/"/>
-    <image id="n5d2stl" name="Anton SDF Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stm" name="Bangers SDF Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stn" name="box.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="5,5,2,2"/>
-    <image id="n5d2sto" name="Brushed Metal 3.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stp" name="button active.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stq" name="button hover.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2str" name="button on hover.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sts" name="button on.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stt" name="button.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stu" name="Default Sprite Asset.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stv" name="Default-Particle.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stw" name="DropCap Numbers.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stx" name="Electronic Highway Sign SDF Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sty" name="EmojiOne.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2stz" name="EscToExit_back.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su0" name="EscToExit_Text.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su1" name="Floor Cement.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su2" name="Fruit Jelly (B&amp;W).png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su3" name="Gradient Diagonal (Color).png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su4" name="horizontal scrollbar thumb.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su5" name="horizontal scrollbar.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="6,4,4,6"/>
-    <image id="n5d2su6" name="horizontalslider.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su7" name="languageBackground.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su8" name="LiberationSans SDF Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2su9" name="MotionBlurJitter.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sua" name="NotoSansCJKjp-Bold-1024-SDF32 Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sub" name="Oswald Bold SDF Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suc" name="Rev4-Japanese-512-SDF32 Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sud" name="Rev4-Korean-512-SDF32 Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sue" name="Rev4-Russian-512-SDF32 Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suf" name="Rev4-SimplifiedChinese-512-SDF32 Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sug" name="Rev4-TraditionalChinese-512-SDF32 Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suh" name="Roboto-Bold SDF Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sui" name="RubikOne-ExtendedASCII-SDF32 Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suj" name="RubikOne-Regular Numbers ON Atlas.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suk" name="Sand Normal Map.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sul" name="slider thumb active.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sum" name="slider thumb.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sun" name="slidert humb hover.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suo" name="Soft.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sup" name="SpriteAtlasTexture-GameSpritesFinal-2048x1024-fmt47.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suq" name="textfield hover.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="4,4,3,3"/>
-    <image id="n5d2sur" name="textfield on.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sus" name="textfield.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="5,5,1,2"/>
-    <image id="n5d2sut" name="toggle active.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suu" name="toggle hover.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suv" name="toggle on active.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suw" name="toggle on hover.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sux" name="toggle on.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suy" name="toggle.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2suz" name="UnitCircle.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv0" name="UnitySplash-cube.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv1" name="UnitySplash-HolographicTrackingLoss.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv2" name="UnityWatermark-beta.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv3" name="UnityWatermark-dev.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv4" name="UnityWatermark-edu.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv5" name="UnityWatermark-proto.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv6" name="UnityWatermark-small.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv7" name="UnityWatermark-trial.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv8" name="UnityWatermarkPlugin-beta.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sv9" name="vertical scrollbar thumb.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2sva" name="vertical scrollbar.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2svb" name="verticalslider.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2svc" name="WarningSign.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2svd" name="window on.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="7,11,3,4"/>
-    <image id="n5d2sve" name="window.png" path="/leap资源/Texture2D/" scale="9grid" scale9grid="6,10,3,4"/>
-    <image id="n5d2svf" name="Wipe Pattern - Circle.png" path="/leap资源/Texture2D/"/>
-    <image id="n5d2svg" name="Background.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svh" name="Checkmark.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svi" name="DropdownArrow.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svj" name="facebookcircle.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svk" name="heartIcon.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svl" name="noads.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svm" name="noads_universal.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svn" name="noodlecake_button.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svo" name="PlainSquare.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svp" name="PlayerSprite6.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svq" name="playIcon.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svr" name="restartIcon.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svs" name="speechBubble_plain.png" path="/leap资源/Sprite/" scale="9grid" scale9grid="297,130,246,260"/>
-    <image id="n5d2svt" name="twitter.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svu" name="UIMask.png" path="/leap资源/Sprite/"/>
-    <image id="n5d2svv" name="UISprite.png" path="/leap资源/Sprite/" scale="9grid" scale9grid="8,8,16,16"/>
-    <image id="n5d2svw" name="UnitySplash-cube.png" path="/leap资源/Sprite/"/>
     <image id="n5d2svx" name="VideoIcon.png" path="/leap资源/Sprite/"/>
-    <sound id="n5d2sw0" name="blackhole4.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2sw1" name="black_explosion.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2sw2" name="Chick Iverson - Let's Do (Game Edit).wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2sw3" name="Decrease_swap_1.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2sw4" name="DM-CGS-10_edited.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2sw5" name="gravityeffect2.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2sw6" name="Increase_chord_1_edited.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2sw7" name="multiplier2.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2sw8" name="newHighScore.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2sw9" name="power_1_b_edited.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2swa" name="retro_jump_collect_bonus_03.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2swb" name="revive2.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2swc" name="Score_swap_5_a.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2swd" name="ShieldActivated.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2swe" name="ShieldAlert.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2swf" name="ShieldDeactivated.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2swg" name="star_sound_final.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2swh" name="thunderbolt.wav" path="/leap资源/AudioClip/"/>
-    <sound id="n5d2swi" name="WhooshesImpacts_Impact_64_edited.wav" path="/leap资源/AudioClip/"/>
     <component id="zmluswj" name="ReadyBg.xml" path="/Main/"/>
     <component id="zmluswk" name="Title.xml" path="/Main/"/>
     <component id="fhuxswq" name="TrailItem.xml" path="/Main/" exported="true"/>
-    <image id="ol16swr" name="201772211555108200.jpeg" path="/leap资源/"/>
-    <image id="ol16sws" name="app_icon.png" path="/leap资源/"/>
-    <image id="ol16swt" name="201772211557329320.jpeg" path="/leap资源/"/>
-    <image id="ol16swu" name="201772211556542640.jpeg" path="/leap资源/"/>
-    <image id="ol16swv" name="201772211556097190.jpeg" path="/leap资源/"/>
-    <component id="ol16sww" name="Component2.xml" path="/leap资源/"/>
+    <image id="ol16swr" name="201772211555108200.jpeg" path="/leap资源/界面参考/"/>
+    <image id="ol16sws" name="app_icon.png" path="/leap资源/Sprite/"/>
+    <image id="ol16swt" name="201772211557329320.jpeg" path="/leap资源/界面参考/"/>
+    <image id="ol16swu" name="201772211556542640.jpeg" path="/leap资源/界面参考/"/>
+    <image id="ol16swv" name="201772211556097190.jpeg" path="/leap资源/界面参考/"/>
     <image id="ol16swx" name="微信图片_20190224173042.png" path="/leap资源/界面参考/"/>
-    <component id="ii48swy" name="Component3.xml" path="/动画/"/>
-    <component id="ii48swz" name="Component4.xml" path="/动画/"/>
-    <component id="ii48sx0" name="Component5.xml" path="/动画/"/>
-    <image id="ii48sx2" name="n76.png" path="/动画/"/>
+    <component id="ii48swy" name="Component3.xml" path="/Main/"/>
+    <component id="ii48swz" name="Component4.xml" path="/Main/"/>
+    <component id="ii48sx0" name="Component5.xml" path="/Main/"/>
     <component id="f373sx3" name="ThunderEff.xml" path="/Main/"/>
     <component id="f373sx4" name="PlusEff.xml" path="/Main/"/>
     <image id="prl3sx8" name="plusEff.png" path="/美术/"/>
@@ -335,31 +111,53 @@
     <image id="i8p0sxi" name="blackImg.png" path="/美术/" scale="9grid" scale9grid="1,1,1,1"/>
     <image id="i8p0sxj" name="whiteImg.png" path="/美术/" scale="9grid" scale9grid="1,1,1,1"/>
     <image id="ho8osxm" name="n76.png" path="/美术/"/>
-    <component id="spo4sxn" name="关闭按钮.xml" path="/美术/Folder1/"/>
+    <component id="spo4sxn" name="关闭按钮.xml" path="/美术/"/>
     <component id="q7amsxo" name="quiteBtn.xml" path="/Main/"/>
     <component id="hublsxp" name="reviveBtn.xml" path="/Main/"/>
-    <image id="jp4nsxq" name="share1.png" path="/" scale="" atlas="alone"/>
-    <image id="jp4nsxr" name="startBtn.png" path="/" scale="" atlas="alone"/>
-    <movieclip id="i1ozsxs" name="0动画黑洞.jta" path="/动画/"/>
-    <image id="p4jvsxt" name="box.png" path="/排行榜/assets/"/>
-    <image id="p4jvsxu" name="icon.png" path="/排行榜/assets/"/>
-    <image id="p4jvsxv" name="line.png" path="/排行榜/assets/"/>
-    <image id="p4jvsxw" name="nextBtn.png" path="/排行榜/assets/"/>
-    <image id="p4jvsxx" name="panel.png" path="/排行榜/assets/"/>
-    <image id="p4jvsxy" name="preBtn.png" path="/排行榜/assets/"/>
-    <image id="p4jvsxz" name="rankback.png" path="/排行榜/assets/" scale="9grid" scale9grid="39,24,75,1"/>
-    <image id="p4jvsy0" name="rankingtitle.png" path="/排行榜/assets/"/>
-    <image id="p4jvsy1" name="top1.png" path="/排行榜/assets/"/>
-    <image id="p4jvsy2" name="top2.png" path="/排行榜/assets/"/>
-    <image id="p4jvsy3" name="top3.png" path="/排行榜/assets/"/>
-    <component id="p4jvsy4" name="Component6.xml" path="/排行榜/"/>
     <component id="sq67sy5" name="shareBtn.xml" path="/Main/"/>
     <component id="sq67sy6" name="homeBtn.xml" path="/Main/"/>
     <image id="sq67sy7" name="share.png" path="/leap资源/Sprite/"/>
-    <image id="sq67sy8" name="HolePattern-2.png" path="/leap资源/Texture2D/"/>
-    <image id="o0w9sy9" name="leaderboardIcon_android.png" path="/leap资源/Sprite/"/>
     <image id="o0w9syc" name="按住.png" path="/美术/"/>
     <component id="batmsyd" name="RankBack.xml" path="/Main/" exported="true"/>
+    <image id="nwtesyf" name="效果图.jpg" path="/"/>
+    <image id="nwtesyg" name="blueImg.png" path="/美术/" scale="9grid" scale9grid="1,1,1,1" duplicatePadding="true"/>
+    <image id="nwtesyu" name="BlackHole.png" path="/Sprite替换/"/>
+    <image id="nwtesz0" name="Explode.png" path="/Sprite替换/"/>
+    <image id="nwtesz2" name="eye2.png" path="/Sprite替换/"/>
+    <image id="nwteszb" name="magnet.png" path="/Sprite替换/"/>
+    <image id="nwteszc" name="megaJump.png" path="/Sprite替换/"/>
+    <image id="nwteszf" name="aeroliteL.png" path="/Sprite替换/new/"/>
+    <image id="nwteszg" name="aeroliteL_A.png" path="/Sprite替换/new/"/>
+    <image id="nwteszi" name="aeroliteS.png" path="/Sprite替换/new/"/>
+    <image id="nwteszj" name="aeroliteS_A.png" path="/Sprite替换/new/"/>
+    <image id="nwteszl" name="blackHole.png" path="/Sprite替换/new/"/>
+    <image id="nwteszm" name="blackHoleLight.png" path="/Sprite替换/new/"/>
+    <image id="nwteszn" name="earth.png" path="/Sprite替换/new/"/>
+    <image id="nwteszo" name="half_planet.png" path="/Sprite替换/new/"/>
+    <image id="nwteszp" name="half_planetColourless.png" path="/Sprite替换/new/"/>
+    <image id="nwteszq" name="planet.png" path="/Sprite替换/new/"/>
+    <image id="nwteszr" name="planetColourless.png" path="/Sprite替换/new/"/>
+    <image id="nwteszs" name="planetLightColourless.png" path="/Sprite替换/new/"/>
+    <image id="nwteszx" name="OutlineCircle.png" path="/Sprite替换/"/>
+    <image id="nwtet04" name="Plus.png" path="/Sprite替换/"/>
+    <image id="nwtet0i" name="Spike.png" path="/Sprite替换/"/>
+    <image id="nwtet0m" name="Star.png" path="/Sprite替换/"/>
+    <image id="nwtet0n" name="Thunderbolt.png" path="/Sprite替换/"/>
+    <image id="nwtet0y" name="planet-purple.png" path="/Sprite替换/new/"/>
+    <image id="nwtet0z" name="planet-red.png" path="/Sprite替换/new/"/>
+    <image id="nwtet10" name="planet-green.png" path="/Sprite替换/new/"/>
+    <image id="nwtet11" name="half_planet2.png" path="/Sprite替换/new/"/>
+    <image id="nwtet12" name="planet-blue.png" path="/Sprite替换/new/"/>
+    <component id="nwtet13" name="Component7.xml" path="/Sprite替换/new/"/>
+    <image id="nwtet15" name="planet-gray.png" path="/Sprite替换/new/"/>
+    <component id="nwtet16" name="Component8.xml" path="/Main/obstruct/"/>
+    <image id="nwtet17" name="half_planet1.png" path="/Sprite替换/new/"/>
+    <image id="nwtet18" name="half_planet3.png" path="/Sprite替换/new/"/>
+    <image id="nwtet19" name="half_planet4.png" path="/Sprite替换/new/"/>
+    <image id="nwtet1a" name="half_planet5.png" path="/Sprite替换/new/"/>
+    <component id="y2xbt1b" name="recommendBtn.xml" path="/Main/"/>
+    <image id="y2xbt1c" name="tuijian.png" path="/leap资源/Sprite/"/>
+    <component id="y2xbt1f" name="Component9.xml" path="/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>
