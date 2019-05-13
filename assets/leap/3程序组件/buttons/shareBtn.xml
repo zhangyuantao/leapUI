@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="98,98" extention="Button">
   <displayList>
-    <image id="n0_o1zj" name="n0" src="sq67sy7" fileName="leap资源/Sprite/share.png" xy="0,0" size="98,98">
+    <image id="n0_o1zj" name="n0" src="sq67sy7" fileName="1界面UI/按钮/share.png" xy="0,0" size="98,98">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>

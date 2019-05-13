@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <image id="n4_q6ss" name="n4" src="nwteszm" fileName="Sprite替换/new/blackHoleLight.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="380,397" aspect="true" blend="add"/>
-    <image id="n0_o1zj" name="n0" src="nwteszl" fileName="Sprite替换/new/blackHole.png" xy="0,0" pivot="0.5,0.5" anchor="true" aspect="true"/>
+    <image id="n4_q6ss" name="lightImg" src="nwteszm" fileName="2场景UI/黑洞/blackHoleLight.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="380,397" aspect="true" blend="add"/>
+    <image id="n0_o1zj" name="n0" src="nwteszl" fileName="2场景UI/黑洞/blackHole.png" xy="0,0" pivot="0.5,0.5" anchor="true" aspect="true"/>
   </displayList>
 </component>

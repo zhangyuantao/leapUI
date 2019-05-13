@@ -118,9 +118,7 @@
     <image id="nwteszb" name="magnet.png" path="/2场景UI/道具/"/>
     <image id="nwteszc" name="megaJump.png" path="/2场景UI/道具/"/>
     <image id="nwteszf" name="aeroliteL.png" path="/2场景UI/障碍物/"/>
-    <image id="nwteszg" name="aeroliteL_A.png" path="/2场景UI/障碍物/"/>
     <image id="nwteszi" name="aeroliteS.png" path="/2场景UI/障碍物/"/>
-    <image id="nwteszj" name="aeroliteS_A.png" path="/2场景UI/障碍物/"/>
     <image id="nwteszl" name="blackHole.png" path="/2场景UI/黑洞/"/>
     <image id="nwteszm" name="blackHoleLight.png" path="/2场景UI/黑洞/"/>
     <image id="nwteszn" name="earth.png" path="/2场景UI/角色/"/>
@@ -147,6 +145,7 @@
     <image id="nwtet1a" name="half_planet5.png" path="/2场景UI/星球/"/>
     <component id="y2xbt1b" name="recommendBtn.xml" path="/3程序组件/buttons/"/>
     <image id="y2xbt1c" name="tuijian.png" path="/1界面UI/按钮/"/>
+    <component id="hx8ft1d" name="WoldLight.xml" path="/3程序组件/" exported="true"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>
