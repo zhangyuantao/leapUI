@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <image id="n8_nwte" name="n8" src="nwteszi" fileName="Sprite替换/new/aeroliteS.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="100,100"/>
+    <image id="n8_nwte" name="img" src="nwteszi" fileName="2场景UI/障碍物/aeroliteS.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="100,100"/>
   </displayList>
 </component>

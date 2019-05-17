@@ -2,7 +2,7 @@
 <component size="0,0">
   <displayList>
     <text id="n25_zmlu" name="n25" xy="-8,4" pivot="0.5,0.5" anchor="true" size="493,144" rotation="-4" font="Rubik One" fontSize="113" color="#ffffff" leading="0" text="PLANET"/>
-    <text id="n26_zmlu" name="n26" xy="7,134" pivot="0.5,0.5" anchor="true" size="631,230" rotation="-4" font="Rubik One" fontSize="182" color="#ffffff" align="center" leading="0" text="JUMP!">
+    <text id="n26_zmlu" name="n26" xy="7,134" pivot="0.5,0.5" anchor="true" size="586,230" rotation="-4" font="Rubik One" fontSize="182" color="#ffffff" align="center" leading="0" text="LEAP!">
       <relation target="n25_zmlu" sidePair="top-top,center-center"/>
     </text>
   </displayList>

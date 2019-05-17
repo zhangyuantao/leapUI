@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <component id="n7_grja" name="p0" src="o3t2snc" fileName="Main/point.xml" xy="-21,-42" visible="false"/>
-    <component id="n8_grja" name="p1" src="o3t2snc" fileName="Main/point.xml" xy="55,-38" visible="false"/>
-    <component id="n9_grja" name="p2" src="o3t2snc" fileName="Main/point.xml" xy="52,37" visible="false"/>
-    <component id="n10_grja" name="p3" src="o3t2snc" fileName="Main/point.xml" xy="2,44" visible="false"/>
-    <component id="n12_nwte" name="p4" src="o3t2snc" fileName="Main/point.xml" xy="-46,33" visible="false"/>
-    <component id="n13_nwte" name="p5" src="o3t2snc" fileName="Main/point.xml" xy="-52,-7" visible="false"/>
-    <image id="n14_nwte" name="n14" src="nwteszf" fileName="Sprite替换/new/aeroliteL.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="115,93" aspect="true"/>
+    <component id="n7_grja" name="p0" src="o3t2snc" fileName="3程序组件/point.xml" xy="-21,-42" visible="false"/>
+    <component id="n8_grja" name="p1" src="o3t2snc" fileName="3程序组件/point.xml" xy="55,-38" visible="false"/>
+    <component id="n9_grja" name="p2" src="o3t2snc" fileName="3程序组件/point.xml" xy="52,37" visible="false"/>
+    <component id="n10_grja" name="p3" src="o3t2snc" fileName="3程序组件/point.xml" xy="2,44" visible="false"/>
+    <component id="n12_nwte" name="p4" src="o3t2snc" fileName="3程序组件/point.xml" xy="-46,33" visible="false"/>
+    <component id="n13_nwte" name="p5" src="o3t2snc" fileName="3程序组件/point.xml" xy="-52,-7" visible="false"/>
+    <image id="n14_nwte" name="img" src="nwteszf" fileName="2场景UI/障碍物/aeroliteL.png" xy="0,0" pivot="0.5,0.5" anchor="true" size="115,93" aspect="true"/>
   </displayList>
 </component>

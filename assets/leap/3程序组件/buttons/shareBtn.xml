@@ -5,5 +5,5 @@
       <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>
-  <Button downEffect="scale" downEffectValue="1.10"/>
+  <Button downEffect="dark" downEffectValue="0.80"/>
 </component>

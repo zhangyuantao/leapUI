@@ -27,9 +27,7 @@
     <component id="o1zjsn2" name="ExplodeSpike.xml" path="/3程序组件/props/" exported="true"/>
     <component id="o1zjsn3" name="ObSquare_new.xml" path="/3程序组件/obstruct/" exported="true"/>
     <component id="o1zjsn4" name="ObTriangle.xml" path="/3程序组件/obstruct/" exported="true"/>
-    <component id="o1zjsn5" name="ObTriangleBlack.xml" path="/3程序组件/obstruct/"/>
-    <component id="o1zjsn6" name="ObTube.xml" path="/3程序组件/obstruct/"/>
-    <component id="o1zjsn7" name="BlackHole.xml" path="/3程序组件/props/"/>
+    <component id="o1zjsn7" name="Cut.xml" path="/3程序组件/props/" exported="true"/>
     <component id="o1zjsn8" name="MainUI.xml" path="/3程序组件/" exported="true"/>
     <component id="o1zjsnb" name="ScoreText.xml" path="/3程序组件/" exported="true"/>
     <component id="o3t2snc" name="point.xml" path="/3程序组件/"/>
@@ -112,7 +110,6 @@
     <component id="batmsyd" name="RankBack.xml" path="/3程序组件/" exported="true"/>
     <image id="nwtesyf" name="效果图.jpg" path="/4其他/"/>
     <image id="nwtesyg" name="blueImg.png" path="/1界面UI/" scale="9grid" scale9grid="1,1,1,1" duplicatePadding="true"/>
-    <image id="nwtesyu" name="BlackHole.png" path="/2场景UI/道具/"/>
     <image id="nwtesz0" name="Explode.png" path="/2场景UI/道具/"/>
     <image id="nwtesz2" name="eye2.png" path="/2场景UI/角色/"/>
     <image id="nwteszb" name="magnet.png" path="/2场景UI/道具/"/>
@@ -138,7 +135,7 @@
     <image id="nwtet11" name="half_planet2.png" path="/2场景UI/星球/"/>
     <image id="nwtet12" name="planet-blue.png" path="/2场景UI/星球/"/>
     <image id="nwtet15" name="planet-gray.png" path="/2场景UI/星球/"/>
-    <component id="nwtet16" name="Component8.xml" path="/3程序组件/obstruct/"/>
+    <component id="nwtet16" name="BlackHole.xml" path="/3程序组件/"/>
     <image id="nwtet17" name="half_planet1.png" path="/2场景UI/星球/"/>
     <image id="nwtet18" name="half_planet3.png" path="/2场景UI/星球/"/>
     <image id="nwtet19" name="half_planet4.png" path="/2场景UI/星球/"/>
@@ -146,6 +143,8 @@
     <component id="y2xbt1b" name="recommendBtn.xml" path="/3程序组件/buttons/"/>
     <image id="y2xbt1c" name="tuijian.png" path="/1界面UI/按钮/"/>
     <component id="hx8ft1d" name="WoldLight.xml" path="/3程序组件/" exported="true"/>
+    <image id="d4i8t1e" name="cut.png" path="/2场景UI/道具/"/>
+    <component id="web3t1f" name="LinkLine.xml" path="/3程序组件/" exported="true"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
-  <controller name="c1" pages="0,,1,,2,,3,,4,,7," selected="5"/>
+  <controller name="c1" pages="0,,1,,2,,3,,4,,7," selected="0"/>
   <displayList>
-    <image id="n4_nwte" name="n4" src="nwteszo" fileName="Sprite替换/new/half_planet.png" xy="-50,-50">
+    <image id="n4_nwte" name="img" src="nwteszo" fileName="2场景UI/星球/half_planet.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="0"/>
     </image>
-    <image id="n11_nwte" name="n11" src="nwtet17" fileName="Sprite替换/new/half_planet1.png" xy="-50,-50">
+    <image id="n11_nwte" name="n11" src="nwtet17" fileName="2场景UI/星球/half_planet1.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="2"/>
     </image>
-    <image id="n12_nwte" name="n12" src="nwtet11" fileName="Sprite替换/new/half_planet2.png" xy="-50,-50">
+    <image id="n12_nwte" name="n12" src="nwtet11" fileName="2场景UI/星球/half_planet2.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="3"/>
     </image>
-    <image id="n13_nwte" name="n13" src="nwtet18" fileName="Sprite替换/new/half_planet3.png" xy="-50,-50">
+    <image id="n13_nwte" name="n13" src="nwtet18" fileName="2场景UI/星球/half_planet3.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="4"/>
     </image>
-    <image id="n14_nwte" name="n14" src="nwtet19" fileName="Sprite替换/new/half_planet4.png" xy="-50,-50">
+    <image id="n14_nwte" name="n14" src="nwtet19" fileName="2场景UI/星球/half_planet4.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="1"/>
     </image>
-    <image id="n15_nwte" name="n15" src="nwtet1a" fileName="Sprite替换/new/half_planet5.png" xy="-50,-50">
+    <image id="n15_nwte" name="n15" src="nwtet1a" fileName="2场景UI/星球/half_planet5.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="7"/>
     </image>
   </displayList>

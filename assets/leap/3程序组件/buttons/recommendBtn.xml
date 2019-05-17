@@ -2,9 +2,9 @@
 <component size="98,98" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n2_ii48" name="n2" src="y2xbt1c" fileName="leap资源/Sprite/tuijian.png" xy="0,0" pivot="0.5,0.5">
+    <image id="n2_ii48" name="n2" src="y2xbt1c" fileName="1界面UI/按钮/tuijian.png" xy="0,0" pivot="0.5,0.5">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>
-  <Button downEffect="scale" downEffectValue="1.10"/>
+  <Button downEffect="dark" downEffectValue="0.80"/>
 </component>
