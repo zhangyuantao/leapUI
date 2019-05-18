@@ -145,6 +145,8 @@
     <component id="hx8ft1d" name="WoldLight.xml" path="/3程序组件/" exported="true"/>
     <image id="d4i8t1e" name="cut.png" path="/2场景UI/道具/"/>
     <component id="web3t1f" name="LinkLine.xml" path="/3程序组件/" exported="true"/>
+    <image id="ealrt1h" name="未标题-1.png" path="/1界面UI/" scale="" duplicatePadding="true"/>
+    <image id="mkg7t1m" name="colorLine.png" path="/1界面UI/" scale="" duplicatePadding="true"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>
