@@ -117,23 +117,15 @@
     <image id="nwteszf" name="aeroliteL.png" path="/2场景UI/障碍物/"/>
     <image id="nwteszi" name="aeroliteS.png" path="/2场景UI/障碍物/"/>
     <image id="nwteszl" name="blackHole.png" path="/2场景UI/黑洞/"/>
-    <image id="nwteszm" name="blackHoleLight.png" path="/2场景UI/黑洞/"/>
     <image id="nwteszn" name="earth.png" path="/2场景UI/角色/"/>
     <image id="nwteszo" name="half_planet.png" path="/2场景UI/星球/"/>
     <image id="nwteszp" name="half_planetColourless.png" path="/2场景UI/星球/"/>
-    <image id="nwteszq" name="planet.png" path="/2场景UI/星球/"/>
-    <image id="nwteszr" name="planetColourless.png" path="/2场景UI/星球/"/>
-    <image id="nwteszs" name="planetLightColourless.png" path="/2场景UI/星球/"/>
     <image id="nwteszx" name="OutlineCircle.png" path="/2场景UI/道具/"/>
     <image id="nwtet04" name="Plus.png" path="/2场景UI/道具/"/>
     <image id="nwtet0i" name="Spike.png" path="/2场景UI/黑洞/"/>
     <image id="nwtet0m" name="Star.png" path="/2场景UI/道具/"/>
     <image id="nwtet0n" name="Thunderbolt.png" path="/2场景UI/道具/"/>
-    <image id="nwtet0y" name="planet-purple.png" path="/2场景UI/星球/"/>
-    <image id="nwtet0z" name="planet-red.png" path="/2场景UI/星球/"/>
-    <image id="nwtet10" name="planet-green.png" path="/2场景UI/星球/"/>
     <image id="nwtet11" name="half_planet2.png" path="/2场景UI/星球/"/>
-    <image id="nwtet12" name="planet-blue.png" path="/2场景UI/星球/"/>
     <image id="nwtet15" name="planet-gray.png" path="/2场景UI/星球/"/>
     <component id="nwtet16" name="BlackHole.xml" path="/3程序组件/"/>
     <image id="nwtet17" name="half_planet1.png" path="/2场景UI/星球/"/>
@@ -147,6 +139,13 @@
     <component id="web3t1f" name="LinkLine.xml" path="/3程序组件/" exported="true"/>
     <image id="ealrt1h" name="未标题-1.png" path="/1界面UI/" scale="" duplicatePadding="true"/>
     <image id="mkg7t1m" name="colorLine.png" path="/1界面UI/" scale="" duplicatePadding="true"/>
+    <image id="m6uqt1o" name="pad.png" path="/2场景UI/黑洞/"/>
+    <image id="m6uqt1p" name="banner.jpg" path="/4其他/"/>
+    <image id="m6uqt1q" name="blue.png" path="/2场景UI/星球/"/>
+    <image id="m6uqt1r" name="green.png" path="/2场景UI/星球/"/>
+    <image id="m6uqt1s" name="orange.png" path="/2场景UI/星球/"/>
+    <image id="m6uqt1t" name="purple.png" path="/2场景UI/星球/"/>
+    <image id="m6uqt1u" name="red.png" path="/2场景UI/星球/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>

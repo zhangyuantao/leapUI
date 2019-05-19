@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" designImageAlpha="100">
+  <controller name="scopeCtrl" pages="0,,1," selected="1"/>
   <displayList>
     <component id="n36_zmlu" name="n36" src="zmluswj" fileName="3程序组件/ReadyBg.xml" xy="0,0" size="720,1280" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
@@ -9,14 +10,21 @@
       <relation target="" sidePair="width-width"/>
     </component>
     <component id="n19_pjhb" name="startBtn" src="nyiassa" fileName="3程序组件/buttons/开始按钮.xml" xy="360,780" pivot="0.5,0.5" anchor="true">
+      <gearDisplay controller="scopeCtrl" pages="1"/>
       <relation target="" sidePair="middle-middle,center-center"/>
     </component>
     <component id="n39_zmlu" name="n39" src="zmluswk" fileName="3程序组件/Title.xml" xy="360,300" touchable="false">
       <relation target="" sidePair="middle-middle,center-center"/>
     </component>
-    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="3程序组件/buttons/排行榜按钮.xml" xy="232,1151" size="98,98" group="n44_sby9" aspect="true"/>
-    <component id="n42_y2xb" name="recommendBtn" src="y2xbt1b" fileName="3程序组件/buttons/recommendBtn.xml" xy="548,1151" size="98,98" group="n44_sby9"/>
-    <component id="n43_sby9" name="shareBtn" src="sq67sy5" fileName="3程序组件/buttons/shareBtn.xml" xy="390,1151" size="98,98" group="n44_sby9"/>
+    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="3程序组件/buttons/排行榜按钮.xml" xy="232,1151" size="98,98" group="n44_sby9" aspect="true">
+      <gearDisplay controller="scopeCtrl" pages="1"/>
+    </component>
+    <component id="n42_y2xb" name="recommendBtn" src="y2xbt1b" fileName="3程序组件/buttons/recommendBtn.xml" xy="548,1151" size="98,98" group="n44_sby9">
+      <gearDisplay controller="scopeCtrl" pages="1"/>
+    </component>
+    <component id="n43_sby9" name="shareBtn" src="sq67sy5" fileName="3程序组件/buttons/shareBtn.xml" xy="390,1151" size="98,98" group="n44_sby9">
+      <gearDisplay controller="scopeCtrl" pages="1"/>
+    </component>
     <group id="n44_sby9" name="n44" xy="232,1151" size="414,98" advanced="true">
       <relation target="" sidePair="bottom-bottom"/>
     </group>

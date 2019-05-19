@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
-  <controller name="c1" pages="0,,1,,2,,3,,4,,5," selected="0"/>
+  <controller name="c1" pages="0,,1,,2,,3,,4,,5," selected="5"/>
   <displayList>
-    <image id="n5_nwte" name="img" src="nwtet15" fileName="2场景UI/星球/planet-gray.png" xy="-50,-51">
+    <image id="n5_nwte" name="img" src="nwtet15" fileName="2场景UI/星球/planet-gray.png" xy="-56,-57" size="110,110" aspect="true">
       <gearDisplay controller="c1" pages="0"/>
     </image>
-    <image id="n7_nwte" name="n7" src="nwtet12" fileName="2场景UI/星球/planet-blue.png" xy="-50,-50">
+    <image id="n7_nwte" name="n7" src="m6uqt1q" fileName="2场景UI/星球/blue.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="3"/>
     </image>
-    <image id="n8_nwte" name="n8" src="nwtet10" fileName="2场景UI/星球/planet-green.png" xy="-50,-50">
+    <image id="n8_nwte" name="n8" src="m6uqt1r" fileName="2场景UI/星球/green.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="4"/>
     </image>
-    <image id="n9_nwte" name="n9" src="nwtet0y" fileName="2场景UI/星球/planet-purple.png" xy="-50,-50">
+    <image id="n9_nwte" name="n9" src="m6uqt1s" fileName="2场景UI/星球/orange.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="5"/>
     </image>
-    <image id="n10_nwte" name="n10" src="nwtet0z" fileName="2场景UI/星球/planet-red.png" xy="-50,-50">
+    <image id="n10_nwte" name="n10" src="m6uqt1t" fileName="2场景UI/星球/purple.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="2"/>
     </image>
-    <image id="n11_nwte" name="n11" src="nwteszq" fileName="2场景UI/星球/planet.png" xy="-50,-50">
+    <image id="n11_nwte" name="n11" src="m6uqt1u" fileName="2场景UI/星球/red.png" xy="-50,-50">
       <gearDisplay controller="c1" pages="1"/>
     </image>
   </displayList>
