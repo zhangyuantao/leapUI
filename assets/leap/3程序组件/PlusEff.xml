@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <image id="n1_f373" name="n1" src="prl3sx8" fileName="美术/plusEff.png" xy="0,0" pivot="0.5,0.5" anchor="true" aspect="true" alpha="0.85"/>
+    <image id="n2_pvzb" name="n1" src="pvzbt21" fileName="2场景UI/角色/无敌圈.png" xy="0,0" pivot="0.5,0.5" anchor="true" alpha="0.85"/>
   </displayList>
 </component>

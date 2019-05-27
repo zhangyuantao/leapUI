@@ -2,7 +2,7 @@
 <component size="98,98" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n2_ii48" name="n2" src="o1zjsku" fileName="1界面UI/按钮/rankIcon.png" xy="0,0" pivot="0.5,0.5" size="98,98">
+    <image id="n2_ii48" name="n2" src="o1zjsku" fileName="1界面UI/按钮/rankIcon.png" xy="0,0" pivot="0.5,0.5">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>

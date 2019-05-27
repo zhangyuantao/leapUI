@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="0,0">
+  <controller name="c1" pages="0,,1," selected="0"/>
+  <displayList>
+    <component id="n7_grja" name="p0" src="o3t2snc" fileName="3程序组件/point.xml" xy="-62,-13" visible="false"/>
+    <component id="n8_grja" name="p1" src="o3t2snc" fileName="3程序组件/point.xml" xy="62,-13" visible="false"/>
+    <component id="n9_grja" name="p2" src="o3t2snc" fileName="3程序组件/point.xml" xy="62,11" visible="false"/>
+    <component id="n10_grja" name="p3" src="o3t2snc" fileName="3程序组件/point.xml" xy="-62,12" visible="false"/>
+    <image id="n18_tqu3" name="img" src="tqu3t1y" fileName="2场景UI/障碍物/satellite01.png" xy="-64,-18">
+      <gearDisplay controller="c1" pages="0"/>
+    </image>
+    <image id="n19_tqu3" name="n19" src="tqu3t1z" fileName="2场景UI/障碍物/satellite02.png" xy="-64,-18">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+  </displayList>
+</component>

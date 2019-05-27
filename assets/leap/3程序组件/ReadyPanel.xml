@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,1280" designImageAlpha="100">
-  <controller name="scopeCtrl" pages="0,,1," selected="1"/>
+<component size="720,1280" designImageAlpha="100" adaptationTest="FitSize">
+  <controller name="scopeCtrl" pages="0,,1," selected="0"/>
   <displayList>
     <component id="n36_zmlu" name="n36" src="zmluswj" fileName="3程序组件/ReadyBg.xml" xy="0,0" size="720,1280" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="-4,233" pivot="0.5,0.5" size="730,290" skew="0,-4" alpha="0.3" touchable="false">
-      <relation target="n39_zmlu" sidePair="top-top,center-center"/>
-      <relation target="" sidePair="width-width"/>
+    <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="-4,258" pivot="0.5,0.5" size="730,240" skew="0,-4" alpha="0.3" touchable="false">
+      <relation target="" sidePair="width-width,middle-middle"/>
     </component>
     <component id="n19_pjhb" name="startBtn" src="nyiassa" fileName="3程序组件/buttons/开始按钮.xml" xy="360,780" pivot="0.5,0.5" anchor="true">
       <gearDisplay controller="scopeCtrl" pages="1"/>
       <relation target="" sidePair="middle-middle,center-center"/>
     </component>
-    <component id="n39_zmlu" name="n39" src="zmluswk" fileName="3程序组件/Title.xml" xy="360,300" touchable="false">
-      <relation target="" sidePair="middle-middle,center-center"/>
+    <component id="n39_zmlu" name="n39" src="zmluswk" fileName="3程序组件/Title.xml" xy="360,360" touchable="false">
+      <relation target="n40_zmlu" sidePair="top-top,center-center"/>
     </component>
-    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="3程序组件/buttons/排行榜按钮.xml" xy="232,1151" size="98,98" group="n44_sby9" aspect="true">
+    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="3程序组件/buttons/排行榜按钮.xml" xy="232,1151" group="n44_sby9" aspect="true">
       <gearDisplay controller="scopeCtrl" pages="1"/>
     </component>
     <component id="n42_y2xb" name="recommendBtn" src="y2xbt1b" fileName="3程序组件/buttons/recommendBtn.xml" xy="548,1151" size="98,98" group="n44_sby9">
@@ -25,7 +24,7 @@
     <component id="n43_sby9" name="shareBtn" src="sq67sy5" fileName="3程序组件/buttons/shareBtn.xml" xy="390,1151" size="98,98" group="n44_sby9">
       <gearDisplay controller="scopeCtrl" pages="1"/>
     </component>
-    <group id="n44_sby9" name="n44" xy="232,1151" size="414,98" advanced="true">
+    <group id="n44_sby9" name="n44" xy="232,1151" size="414,98" advanced="true" collapsed="true">
       <relation target="" sidePair="bottom-bottom"/>
     </group>
   </displayList>

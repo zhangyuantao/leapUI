@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="98,98" extention="Button">
+<component size="61,61" extention="Button">
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
   <displayList>
-    <image id="n2_ii48" name="n2" src="o1zjslu" fileName="1界面UI/按钮/quitIcon.png" xy="0,0"/>
+    <image id="n1" name="n1" src="pvzbt22" fileName="1界面UI/按钮/说明.png" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
   </displayList>
   <Button downEffect="scale" downEffectValue="1.10"/>
 </component>

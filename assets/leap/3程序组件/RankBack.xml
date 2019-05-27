@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" designImageAlpha="100" designImageLayer="1">
   <displayList>
-    <component id="n36_zmlu" name="n36" src="zmluswj" fileName="Main/ReadyBg.xml" xy="0,0" size="720,1280" touchable="false">
+    <component id="n36_zmlu" name="n36" src="zmluswj" fileName="3程序组件/ReadyBg.xml" xy="0,0" size="720,1280" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="Main/BaseImgBlack.xml" xy="-5,232" pivot="0.5,0.5" size="730,750" skew="0,-4" alpha="0.3" touchable="false">
+    <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="-5,232" pivot="0.5,0.5" size="730,750" skew="0,-4" alpha="0.3" touchable="false">
       <relation target="" sidePair="width-width,middle-middle"/>
     </component>
   </displayList>

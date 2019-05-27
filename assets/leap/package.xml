@@ -92,7 +92,6 @@
     <component id="ii48sx0" name="Component5.xml" path="/3程序组件/"/>
     <component id="f373sx3" name="ThunderEff.xml" path="/3程序组件/"/>
     <component id="f373sx4" name="PlusEff.xml" path="/3程序组件/"/>
-    <image id="prl3sx8" name="plusEff.png" path="/2场景UI/角色/"/>
     <component id="mvnpsx9" name="BaseImgWhite.xml" path="/3程序组件/" exported="true"/>
     <component id="yj0vsxc" name="BaseImgBlack.xml" path="/3程序组件/" exported="true"/>
     <image id="yj0vsxf" name="wihteImgCircle.png" path="/1界面UI/"/>
@@ -120,7 +119,6 @@
     <image id="nwteszn" name="earth.png" path="/2场景UI/角色/"/>
     <image id="nwteszo" name="half_planet.png" path="/2场景UI/星球/"/>
     <image id="nwteszp" name="half_planetColourless.png" path="/2场景UI/星球/"/>
-    <image id="nwteszx" name="OutlineCircle.png" path="/2场景UI/道具/"/>
     <image id="nwtet04" name="Plus.png" path="/2场景UI/道具/"/>
     <image id="nwtet0i" name="Spike.png" path="/2场景UI/黑洞/"/>
     <image id="nwtet0m" name="Star.png" path="/2场景UI/道具/"/>
@@ -146,6 +144,15 @@
     <image id="m6uqt1s" name="orange.png" path="/2场景UI/星球/"/>
     <image id="m6uqt1t" name="purple.png" path="/2场景UI/星球/"/>
     <image id="m6uqt1u" name="red.png" path="/2场景UI/星球/"/>
+    <component id="nywtt1v" name="Component6.xml" path="/4其他/"/>
+    <image id="tqu3t1x" name="logo.png" path="/4其他/"/>
+    <image id="tqu3t1y" name="satellite01.png" path="/2场景UI/障碍物/"/>
+    <image id="tqu3t1z" name="satellite02.png" path="/2场景UI/障碍物/"/>
+    <component id="tqu3t20" name="ObTube.xml" path="/3程序组件/obstruct/" exported="true"/>
+    <image id="pvzbt21" name="无敌圈.png" path="/2场景UI/角色/"/>
+    <image id="pvzbt22" name="说明.png" path="/1界面UI/按钮/"/>
+    <component id="pvzbt23" name="说明按钮.xml" path="/3程序组件/buttons/"/>
+    <component id="pvzbt24" name="HelpPanel.xml" path="/3程序组件/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>

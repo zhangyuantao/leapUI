@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" designImageOffsetX="-563" designImageAlpha="28" designImageLayer="1">
   <displayList>
-    <image id="n23_o1zj" name="n23" src="o1zjsmk" fileName="leap资源/Sprite/vignette-full-2.png" xy="-15,-15" size="750,1310" alpha="0.8">
+    <image id="n23_o1zj" name="n23" src="o1zjsmk" fileName="1界面UI/vignette-full-2.png" xy="-10,-10" size="740,1300">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
   </displayList>
