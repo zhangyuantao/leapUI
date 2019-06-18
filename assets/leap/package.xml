@@ -153,6 +153,7 @@
     <image id="pvzbt22" name="说明.png" path="/1界面UI/按钮/"/>
     <component id="pvzbt23" name="说明按钮.xml" path="/3程序组件/buttons/"/>
     <component id="pvzbt24" name="HelpPanel.xml" path="/3程序组件/"/>
+    <image id="e7k6t25" name="logo02.png" path="/4其他/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>

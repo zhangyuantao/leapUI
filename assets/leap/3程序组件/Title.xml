@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <text id="n25_zmlu" name="n25" xy="0,85" pivot="0.5,0.5" anchor="true" size="285,53" rotation="-4" font="Rubik One" fontSize="40" color="#ffffff" leading="0" text="PLANET FLY!"/>
-    <text id="n26_zmlu" name="n26" xy="15,260" pivot="0.5,0.5" anchor="true" size="438,230" hideByEditor="true" visible="false" rotation="-4" font="Rubik One" fontSize="182" color="#ffffff" align="center" leading="0" text="FLY!">
-      <relation target="n25_zmlu" sidePair="top-top,center-center"/>
-    </text>
-    <image id="n27_tqu3" name="n27" src="tqu3t1x" fileName="4其他/logo.png" xy="0,0" pivot="0.5,0.5" anchor="true" aspect="true" rotation="-4"/>
+    <image id="n28_e7k6" name="n28" src="tqu3t1x" fileName="4其他/logo.png" xy="0,0" pivot="0.5,0.5" anchor="true" aspect="true" rotation="-4.1"/>
   </displayList>
 </component>
