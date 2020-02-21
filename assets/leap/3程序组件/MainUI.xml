@@ -24,7 +24,7 @@
     <component id="n32_nyia" name="pausePanel" src="nyiassj" fileName="3程序组件/PausePanel.xml" xy="0,0" size="720,1280" hideByEditor="true">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n34_pvzb" name="helpPanel" src="pvzbt24" fileName="3程序组件/HelpPanel.xml" xy="0,0" size="720,1280">
+    <component id="n34_pvzb" name="helpPanel" src="pvzbt24" fileName="3程序组件/HelpPanel.xml" xy="0,0" size="720,1280" hideByEditor="true">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
   </displayList>

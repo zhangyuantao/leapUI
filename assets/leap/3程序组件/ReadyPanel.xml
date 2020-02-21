@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" designImageAlpha="100" adaptationTest="FitSize">
-  <controller name="scopeCtrl" pages="0,,1," selected="0"/>
+  <controller name="scopeCtrl" pages="0,,1," selected="1"/>
+  <controller name="platCtrl" pages="1,wx,2,tt" selected="0"/>
   <displayList>
-    <component id="n36_zmlu" name="n36" src="zmluswj" fileName="3程序组件/ReadyBg.xml" xy="0,0" size="720,1280" touchable="false">
+    <component id="n36_zmlu" name="n36" src="zmluswj" fileName="3程序组件/ReadyBg.xml" xy="0,0" size="720,1280" locked="true" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
     <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="-4,278" pivot="0.5,0.5" size="730,200" skew="0,-4" alpha="0.3" touchable="false">
@@ -18,13 +19,14 @@
     <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="3程序组件/buttons/排行榜按钮.xml" xy="232,1151" group="n44_sby9" aspect="true">
       <gearDisplay controller="scopeCtrl" pages="1"/>
     </component>
-    <component id="n42_y2xb" name="recommendBtn" src="y2xbt1b" fileName="3程序组件/buttons/recommendBtn.xml" xy="548,1151" size="98,98" group="n44_sby9">
+    <component id="n42_y2xb" name="recommendBtn" src="spcut2a" fileName="3程序组件/buttons/recommendBtn.xml" xy="548,1151" size="98,98" group="n44_sby9">
       <gearDisplay controller="scopeCtrl" pages="1"/>
     </component>
     <component id="n43_sby9" name="shareBtn" src="sq67sy5" fileName="3程序组件/buttons/shareBtn.xml" xy="390,1151" size="98,98" group="n44_sby9">
       <gearDisplay controller="scopeCtrl" pages="1"/>
     </component>
-    <group id="n44_sby9" name="n44" xy="232,1151" size="414,98" advanced="true" collapsed="true">
+    <group id="n44_sby9" name="n44" xy="232,1151" size="414,98" advanced="true">
+      <gearXY controller="platCtrl" pages="2" values="153,1151" default="232,1151"/>
       <relation target="" sidePair="bottom-bottom"/>
     </group>
   </displayList>

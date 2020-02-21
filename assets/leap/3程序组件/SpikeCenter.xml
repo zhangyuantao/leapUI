@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <component id="n4_q6ss" name="blackHole" src="nwtet16" fileName="3程序组件/obstruct/Component8.xml" xy="0,0" size="0,0"/>
-    <text id="n2_o1zj" name="multiNum" xy="-115,-51" pivot="0.5,0.5" size="232,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="none" text="x99">
+    <component id="n4_q6ss" name="blackHole" src="nwtet16" fileName="3程序组件/BlackHole.xml" xy="0,0" size="0,0"/>
+    <text id="n2_o1zj" name="multiNum" xy="-115,-51" pivot="0.5,0.5" size="232,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="none" text="x1">
       <relation target="" sidePair="middle-middle"/>
     </text>
   </displayList>
