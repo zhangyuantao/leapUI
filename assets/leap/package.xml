@@ -153,10 +153,13 @@
     <component id="pvzbt23" name="说明按钮.xml" path="/3程序组件/buttons/"/>
     <component id="pvzbt24" name="HelpPanel.xml" path="/3程序组件/"/>
     <image id="e7k6t25" name="logo02.png" path="/4其他/"/>
-    <image id="9vpjt26" name="ab356d1f793c582b763476613560fb8.png" path="/"/>
-    <image id="9vpjt27" name="Bitmap.png" path="/"/>
-    <image id="zfgat28" name="Bitmap(1).png" path="/"/>
     <component id="spcut2a" name="recommendBtn.xml" path="/3程序组件/buttons/"/>
+    <component id="avvrt2b" name="录屏按钮.xml" path="/3程序组件/buttons/"/>
+    <image id="avvrt2c" name="录屏.png" path="/1界面UI/按钮/"/>
+    <image id="avvrt2d" name="录屏暂停.png" path="/1界面UI/按钮/"/>
+    <component id="avvrt2e" name="录屏按钮大.xml" path="/3程序组件/buttons/"/>
+    <image id="avvrt2f" name="record.png" path="/1界面UI/按钮/"/>
+    <image id="avvrt2g" name="recordStop.png" path="/1界面UI/按钮/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="4096">
     <atlas name="默认" index="0"/>

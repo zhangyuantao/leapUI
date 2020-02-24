@@ -7,10 +7,10 @@
     <component id="n20_o1zj" name="mainUI" src="o1zjsn8" fileName="3程序组件/MainUI.xml" xy="0,0" size="720,1280">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n22_d2yd" name="resultPanel" src="ht6nspu" fileName="3程序组件/ResultPanel.xml" xy="0,0" visible="false">
+    <component id="n22_d2yd" name="resultPanel" src="ht6nspu" fileName="3程序组件/ResultPanel.xml" xy="0,0" hideByEditor="true" visible="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n21_nyia" name="readyPanel" src="nyiassg" fileName="3程序组件/ReadyPanel.xml" xy="0,0">
+    <component id="n21_nyia" name="readyPanel" src="nyiassg" fileName="3程序组件/ReadyPanel.xml" xy="0,0" hideByEditor="true">
       <relation target="" sidePair="height-height,width-width"/>
     </component>
     <component id="n23_spo4" name="btnCloseRank" src="spo4sxn" fileName="3程序组件/buttons/关闭按钮.xml" xy="0,150" pivot="0.5,0.5" scale="0.6,0.6">
