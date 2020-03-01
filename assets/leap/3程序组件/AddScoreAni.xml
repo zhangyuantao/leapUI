@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="0,0">
   <displayList>
-    <text id="n0_ir4q" name="txt" xy="0,0" pivot="0.5,0.5" anchor="true" size="150,44" font="Rubik One" fontSize="55" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="+0"/>
+    <text id="n0_ir4q" name="txt" xy="0,-7" pivot="0.5,0.5" anchor="true" size="150,44" font="ui://u9b31fxfunq8t39" fontSize="6" color="#ffffff" align="center" autoSize="none" text="+0"/>
   </displayList>
   <transition name="t0">
     <item time="0" type="Alpha" target="n0_ir4q" tween="true" startValue="0" endValue="1" duration="6"/>

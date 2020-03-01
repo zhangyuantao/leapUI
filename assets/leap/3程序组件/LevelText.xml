@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,103">
+<component size="381,112">
   <displayList>
-    <text id="n30_ir4q" name="txt" xy="0,0" size="720,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="STAGE 1"/>
+    <text id="n31_unq8" name="txt" xy="-1,8" size="299,99" font="ui://u9b31fxfunq8t3b" fontSize="11" color="#ffffff" align="center" vAlign="middle" text="STAGE"/>
+    <text id="n30_ir4q" name="txt" xy="310,0" size="71,112" font="ui://u9b31fxfunq8t39" fontSize="12" color="#ffffff" align="center" vAlign="middle" bold="true" text="2"/>
   </displayList>
+  <relation target="n30_ir4q" sidePair="width-width"/>
 </component>

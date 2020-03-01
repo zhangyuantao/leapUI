@@ -160,8 +160,39 @@
     <component id="avvrt2e" name="录屏按钮大.xml" path="/3程序组件/buttons/"/>
     <image id="avvrt2f" name="record.png" path="/1界面UI/按钮/"/>
     <image id="avvrt2g" name="recordStop.png" path="/1界面UI/按钮/"/>
+    <component id="unq8t2h" name="Font.xml" path="/4其他/"/>
+    <image id="unq8t2l" name="0.png" path="/4其他/"/>
+    <image id="unq8t2q" name="3.png" path="/4其他/"/>
+    <image id="unq8t2r" name="4.png" path="/4其他/"/>
+    <image id="unq8t2s" name="1.png" path="/4其他/"/>
+    <image id="unq8t2t" name="2.png" path="/4其他/"/>
+    <image id="unq8t2u" name="5.png" path="/4其他/"/>
+    <image id="unq8t2v" name="6.png" path="/4其他/"/>
+    <image id="unq8t2w" name="7.png" path="/4其他/"/>
+    <image id="unq8t2x" name="8.png" path="/4其他/"/>
+    <image id="unq8t2y" name="9.png" path="/4其他/"/>
+    <image id="unq8t2z" name="!.png" path="/4其他/"/>
+    <image id="unq8t30" name="+.png" path="/4其他/"/>
+    <image id="unq8t31" name="x.png" path="/4其他/"/>
+    <image id="unq8t33" name="B.png" path="/4其他/"/>
+    <image id="unq8t34" name="E.png" path="/4其他/"/>
+    <image id="unq8t35" name="S.png" path="/4其他/"/>
+    <image id="unq8t36" name="T.png" path="/4其他/"/>
+    <image id="unq8t37" name="A.png" path="/4其他/"/>
+    <image id="unq8t38" name="G.png" path="/4其他/"/>
+    <font id="unq8t39" name="Font.fnt" path="/4其他/" exported="true"/>
+    <font id="unq8t3b" name="Font1.fnt" path="/4其他/" exported="true"/>
+    <image id="unq8t3d" name="logo03.png" path="/4其他/"/>
+    <image id="unq8t3e" name="L.png" path="/4其他/"/>
+    <image id="unq8t3f" name="V.png" path="/4其他/"/>
+    <image id="unq8t3g" name="O.png" path="/4其他/"/>
+    <image id="unq8t3h" name="R.png" path="/4其他/"/>
+    <image id="unq8t3i" name="C.png" path="/4其他/"/>
+    <component id="unq8t3k" name="音乐按钮2.xml" path="/3程序组件/buttons/"/>
+    <component id="unq8t3l" name="说明按钮2.xml" path="/3程序组件/buttons/"/>
+    <component id="unq8t3m" name="录屏按钮2.xml" path="/3程序组件/buttons/"/>
   </resources>
-  <publish name="leap" path="publish" maxAtlasSize="4096">
+  <publish name="leap" path="publish" maxAtlasSize="1024">
     <atlas name="默认" index="0"/>
   </publish>
 </packageDescription>

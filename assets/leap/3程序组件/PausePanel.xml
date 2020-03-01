@@ -4,10 +4,19 @@
     <component id="n21_nyia" name="n21" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="0,0" size="720,1280" alpha="0.3">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n19_pjhb" name="continueBtn" src="nyiassa" fileName="3程序组件/buttons/开始按钮.xml" xy="280,560">
+    <component id="n26_unq8" name="n26" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="-5,157" pivot="0.5,0.5" size="730,237" skew="0,-4" alpha="0.4" touchable="false">
+      <relation target="" sidePair="width-width,middle-middle"/>
+    </component>
+    <component id="n23_unq8" name="musicBtn" src="unq8t3k" fileName="3程序组件/buttons/音乐按钮2.xml" xy="192,195" group="n27_unq8" aspect="true"/>
+    <component id="n24_unq8" name="helpBtn" src="unq8t3l" fileName="3程序组件/buttons/说明按钮2.xml" xy="398,195" group="n27_unq8"/>
+    <component id="n25_unq8" name="recordBtn" src="unq8t3m" fileName="3程序组件/buttons/录屏按钮2.xml" xy="192,303" group="n27_unq8"/>
+    <group id="n27_unq8" name="n27" xy="192,195" size="267,169" advanced="true" collapsed="true">
+      <relation target="" sidePair="middle-middle"/>
+    </group>
+    <component id="n19_pjhb" name="continueBtn" src="nyiassa" fileName="3程序组件/buttons/开始按钮.xml" xy="280,600">
       <relation target="" sidePair="middle-middle"/>
     </component>
-    <image id="n22_nyia" name="n22" src="nyiassl" fileName="1界面UI/按钮/暂停_07.png" xy="202,825">
+    <image id="n22_nyia" name="n22" src="nyiassl" fileName="1界面UI/按钮/暂停_07.png" xy="202,840">
       <relation target="n19_pjhb" sidePair="center-center,top-top"/>
     </image>
   </displayList>

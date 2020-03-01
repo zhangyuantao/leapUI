@@ -5,8 +5,8 @@
     <image id="n28_e7k6" name="n28" src="tqu3t1x" fileName="4其他/logo.png" xy="0,0" pivot="0.5,0.5" anchor="true" aspect="true" rotation="-4.1">
       <gearDisplay controller="platCtrl" pages="0"/>
     </image>
-    <text id="n29_nsmn" name="n29" xy="0,0" pivot="0.5,0.5" anchor="true" size="619,177" rotation="-4" font="Rubik One" fontSize="140" color="#ffffff" align="center" leading="-35" text="LeapOn!">
+    <image id="n29_nsmn" name="n29" src="unq8t3d" fileName="4其他/logo03.png" xy="-314,-66" rotation="-4">
       <gearDisplay controller="platCtrl" pages="1"/>
-    </text>
+    </image>
   </displayList>
 </component>

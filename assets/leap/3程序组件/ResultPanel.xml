@@ -4,28 +4,28 @@
     <component id="n25_ht6n" name="n25" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="0,0" size="720,1284" alpha="0.3" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="3程序组件/buttons/restartBtn.xml" xy="290,905" pivot="0.5,0.5" size="140,140" aspect="true">
+    <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="3程序组件/buttons/restartBtn.xml" xy="290,907" pivot="0.5,0.5" size="140,140" aspect="true">
       <relation target="n29_ht6n" sidePair="top-top"/>
     </component>
-    <text id="n29_ht6n" name="txt" xy="221,210" size="277,86" font="Rubik One" fontSize="66" color="#ffffff" align="center" leading="0" letterSpacing="5" autoSize="none" bold="true" text="SCORE">
+    <text id="n29_ht6n" name="txt" xy="228,212" size="263,82" font="ui://u9b31fxfunq8t3b" fontSize="9" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="SCORE">
       <relation target="" sidePair="center-center,middle-middle"/>
     </text>
-    <text id="n30_zmlu" name="txtScore" xy="10,284" size="700,128" font="Rubik One" fontSize="100" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="112345555">
+    <text id="n30_zmlu" name="txtScore" xy="10,286" size="700,103" font="ui://u9b31fxfunq8t39" fontSize="12" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="112345555">
       <relation target="n29_ht6n" sidePair="center-center,top-top"/>
     </text>
-    <text id="n32_zmlu" name="txt" xy="256,420" size="201,78" font="Rubik One" fontSize="60" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="BEST">
+    <text id="n32_zmlu" name="txt" xy="272,409" size="166,65" font="ui://u9b31fxfunq8t3b" fontSize="7" color="#ffffff" align="center" leading="0" letterSpacing="5" bold="true" text="BEST">
       <relation target="" sidePair="center-center,middle-middle"/>
     </text>
-    <text id="n33_zmlu" name="txtScoreBest" xy="10,488" size="700,103" font="Rubik One" fontSize="80" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="12365555555lllllllllll">
+    <text id="n33_zmlu" name="txtScoreBest" xy="8,477" size="700,103" font="ui://u9b31fxfunq8t39" fontSize="10" color="#ffffff" align="center" vAlign="middle" leading="0" autoSize="shrink" text="12365555555lllllllllll">
       <relation target="n32_zmlu" sidePair="center-center,top-top"/>
     </text>
-    <component id="n34_q7am" name="homeBtn" src="sq67sy6" fileName="3程序组件/buttons/homeBtn.xml" xy="500,947">
+    <component id="n34_q7am" name="homeBtn" src="sq67sy6" fileName="3程序组件/buttons/homeBtn.xml" xy="500,949">
       <relation target="n27_ht6n" sidePair="left-right,top-top"/>
     </component>
     <component id="n35_hubl" name="reviveBtn" src="hublsxp" fileName="3程序组件/buttons/reviveBtn.xml" xy="315,785">
       <relation target="" sidePair="middle-middle"/>
     </component>
-    <component id="n36_sq67" name="shareBtn" src="sq67sy5" fileName="3程序组件/buttons/shareBtn.xml" xy="122,947">
+    <component id="n36_sq67" name="shareBtn" src="sq67sy5" fileName="3程序组件/buttons/shareBtn.xml" xy="122,949">
       <relation target="n27_ht6n" sidePair="top-top,right-right"/>
     </component>
     <component id="n38_rpky" name="n38" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="0,620" pivot="0.5,0" size="720,124" skew="0,4" alpha="0.5">

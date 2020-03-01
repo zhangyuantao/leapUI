@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="720,117">
+<component size="720,116">
   <displayList>
-    <text id="n26_ir4q" name="txt" xy="0,1" size="720,116" font="Rubik One" fontSize="90" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="x1"/>
+    <text id="n26_ir4q" name="txt" xy="0,0" size="720,116" font="ui://u9b31fxfunq8t39" fontSize="12" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="x1"/>
   </displayList>
 </component>

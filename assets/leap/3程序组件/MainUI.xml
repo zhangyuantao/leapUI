@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280">
-  <controller name="gameOverCtrl" pages="0,,1," selected="0"/>
-  <controller name="platCtrl" pages="0,,1,tt" selected="1"/>
+  <controller name="gameOverCtrl" pages="0,,1," selected="1"/>
   <displayList>
     <component id="n21_o1zj" name="scoreTxt" src="o1zjsnb" fileName="3程序组件/ScoreText.xml" xy="361,232" pivot="0.5,0.5" anchor="true" touchable="false">
       <gearDisplay controller="gameOverCtrl" pages="0"/>
@@ -19,12 +18,7 @@
       <gearDisplay controller="gameOverCtrl" pages="0"/>
       <relation target="" sidePair="top-top"/>
     </component>
-    <component id="n22_o1zj" name="pauseBtn" src="ir4qsru" fileName="3程序组件/buttons/暂停按钮.xml" xy="15,20" aspect="true"/>
-    <component id="n23_o1zj" name="musicBtn" src="ir4qsrr" fileName="3程序组件/buttons/音乐按钮.xml" xy="15,95" aspect="true"/>
-    <component id="n33_pvzb" name="helpBtn" src="pvzbt23" fileName="3程序组件/buttons/说明按钮.xml" xy="90,20"/>
-    <component id="n35_avvr" name="recordBtn" src="avvrt2b" fileName="3程序组件/buttons/录屏按钮.xml" xy="15,170">
-      <gearDisplay controller="platCtrl" pages="1"/>
-    </component>
+    <component id="n22_o1zj" name="pauseBtn" src="ir4qsru" fileName="3程序组件/buttons/暂停按钮.xml" xy="20,25" aspect="true"/>
     <component id="n32_nyia" name="pausePanel" src="nyiassj" fileName="3程序组件/PausePanel.xml" xy="0,0" size="720,1280" hideByEditor="true">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
