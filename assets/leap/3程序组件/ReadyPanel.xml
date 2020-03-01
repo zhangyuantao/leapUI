@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" designImageAlpha="100" adaptationTest="FitSize">
-  <controller name="scopeCtrl" pages="0,,1," selected="1"/>
-  <controller name="platCtrl" pages="0,wx,1,tt" selected="1"/>
+  <controller name="platCtrl" pages="0,wx,1,tt" selected="0"/>
   <displayList>
     <component id="n36_zmlu" name="n36" src="zmluswj" fileName="3程序组件/ReadyBg.xml" xy="0,0" size="720,1280" locked="true" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
@@ -15,13 +14,17 @@
     <component id="n39_zmlu" name="title" src="zmluswk" fileName="3程序组件/Title.xml" xy="360,377" touchable="false" controller="platCtrl,1">
       <relation target="n40_zmlu" sidePair="top-top,center-center"/>
     </component>
-    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="3程序组件/buttons/排行榜按钮.xml" xy="153,1100" group="n44_sby9" aspect="true"/>
-    <component id="n42_y2xb" name="recommendBtn" src="spcut2a" fileName="3程序组件/buttons/recommendBtn.xml" xy="469,1100" size="98,98" group="n44_sby9"/>
-    <component id="n43_sby9" name="shareBtn" src="sq67sy5" fileName="3程序组件/buttons/shareBtn.xml" xy="311,1100" size="98,98" group="n44_sby9"/>
-    <group id="n44_sby9" name="n44" xy="153,1100" size="414,98" advanced="true">
-      <gearDisplay controller="scopeCtrl" pages="1"/>
+    <component id="n20_pjhb" name="rankBtn" src="q2rsstc" fileName="3程序组件/buttons/排行榜按钮.xml" xy="153,1100" aspect="true">
+      <gearXY controller="platCtrl" pages="1" values="311,964" default="153,1100"/>
       <relation target="" sidePair="bottom-bottom"/>
-    </group>
+    </component>
+    <component id="n42_y2xb" name="recommendBtn" src="spcut2a" fileName="3程序组件/buttons/recommendBtn.xml" xy="469,1100" size="98,98">
+      <gearDisplay controller="platCtrl" pages="0"/>
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
+    <component id="n43_sby9" name="shareBtn" src="sq67sy5" fileName="3程序组件/buttons/shareBtn.xml" xy="311,1100" size="98,98">
+      <relation target="" sidePair="bottom-bottom"/>
+    </component>
   </displayList>
   <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
     <item time="0" type="Rotation" target="n39_zmlu" tween="true" startValue="0" endValue="3" duration="24" ease="Quad.InOut"/>

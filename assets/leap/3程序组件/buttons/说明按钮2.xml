@@ -5,7 +5,7 @@
     <image id="n1" name="n1" src="pvzbt22" fileName="1界面UI/按钮/说明.png" xy="0,0">
       <relation target="" sidePair="width-width,height-height"/>
     </image>
-    <text id="n2_unq8" name="n2" xy="65,6" size="74,49" fontSize="34" color="#ffffff" text="指南"/>
+    <text id="n2_unq8" name="n2" xy="65,12" size="73,49" fontSize="34" color="#ffffff" vAlign="middle" text="指南"/>
   </displayList>
   <Button downEffect="scale" downEffectValue="1.10"/>
 </component>

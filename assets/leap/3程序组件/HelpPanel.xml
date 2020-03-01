@@ -4,90 +4,90 @@
     <component id="n36_zmlu" name="n36" src="zmluswj" fileName="3程序组件/ReadyBg.xml" xy="1,0" size="720,1280" locked="true" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
-    <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="-5,217" pivot="0.5,0.5" size="730,820" locked="true" skew="0,-4" alpha="0.5" touchable="false">
+    <component id="n40_zmlu" name="n40" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="-5,197" pivot="0.5,0.5" size="730,820" locked="true" skew="0,-4" alpha="0.5" touchable="false">
       <relation target="" sidePair="width-width,middle-middle"/>
     </component>
-    <component id="n59_pvzb" name="closeBtn" src="spo4sxn" fileName="3程序组件/buttons/关闭按钮.xml" xy="0,150" pivot="0.5,0.5" locked="true" aspect="true" scale="0.6,0.6">
+    <component id="n59_pvzb" name="closeBtn" src="spo4sxn" fileName="3程序组件/buttons/关闭按钮.xml" xy="0,130" pivot="0.5,0.5" locked="true" aspect="true" scale="0.6,0.6">
       <relation target="" sidePair="left-left,middle-middle"/>
     </component>
-    <text id="n45_pvzb" name="n45" xy="243,248" pivot="0.5,0" size="232,59" group="n106_pvzb" fontSize="42" color="#ffffff" align="center" autoSize="none" text="物品与道具">
+    <text id="n45_pvzb" name="n45" xy="243,228" pivot="0.5,0" size="232,59" group="n106_pvzb" fontSize="42" color="#ffffff" align="center" autoSize="none" text="物品与道具">
       <relation target="" sidePair="center-center"/>
     </text>
-    <text id="n49_pvzb" name="n49" xy="220,738" pivot="0.5,0" size="279,59" group="n106_pvzb" fontSize="42" color="#ffffff" align="center" autoSize="none" text="危险障碍物">
+    <text id="n49_pvzb" name="n49" xy="220,718" pivot="0.5,0" size="279,59" group="n106_pvzb" fontSize="42" color="#ffffff" align="center" autoSize="none" text="危险障碍物">
       <relation target="" sidePair="center-center"/>
     </text>
-    <image id="n76_pvzb" name="n76" src="m6uqt1o" fileName="2场景UI/黑洞/pad.png" xy="25,776" size="170,170" group="n77_pvzb" aspect="true" blend="add"/>
-    <text id="n78_pvzb" name="n78" xy="177,832" pivot="0.5,0" size="207,59" group="n77_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="黑洞，远离它">
+    <image id="n76_pvzb" name="n76" src="m6uqt1o" fileName="2场景UI/黑洞/pad.png" xy="25,756" size="170,170" group="n77_pvzb" aspect="true" blend="add"/>
+    <text id="n78_pvzb" name="n78" xy="177,812" pivot="0.5,0" size="207,59" group="n77_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="黑洞，远离它">
       <relation target="" sidePair="center-center"/>
     </text>
-    <image id="n75_pvzb" name="n75" src="nwteszl" fileName="2场景UI/黑洞/blackHole.png" xy="70,820" size="80,83" group="n77_pvzb" aspect="true"/>
-    <group id="n77_pvzb" name="n77" xy="25,776" size="359,170" group="n106_pvzb" collapsed="true"/>
-    <image id="n74_pvzb" name="n74" src="nwtet0i" fileName="2场景UI/黑洞/Spike.png" xy="394,839" group="n82_pvzb"/>
-    <text id="n79_pvzb" name="n79" xy="476,832" pivot="0.5,0" size="207,59" group="n82_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="黑洞散射的子弹">
+    <image id="n75_pvzb" name="n75" src="nwteszl" fileName="2场景UI/黑洞/blackHole.png" xy="70,800" size="80,83" group="n77_pvzb" aspect="true"/>
+    <group id="n77_pvzb" name="n77" xy="25,756" size="359,170" group="n106_pvzb" collapsed="true"/>
+    <image id="n74_pvzb" name="n74" src="nwtet0i" fileName="2场景UI/黑洞/Spike.png" xy="394,819" group="n82_pvzb"/>
+    <text id="n79_pvzb" name="n79" xy="476,812" pivot="0.5,0" size="207,59" group="n82_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="黑洞散射的子弹">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n82_pvzb" name="n82" xy="394,832" size="289,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n47_pvzb" name="n47" src="tqu3t1y" fileName="2场景UI/障碍物/satellite01.png" xy="359,948" size="100,33" group="n83_pvzb" aspect="true"/>
-    <text id="n80_pvzb" name="n80" xy="476,935" pivot="0.5,0" size="207,59" group="n83_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="失去控制的卫星&#xA;得分=倍数x5">
+    <group id="n82_pvzb" name="n82" xy="394,812" size="289,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n47_pvzb" name="n47" src="tqu3t1y" fileName="2场景UI/障碍物/satellite01.png" xy="359,928" size="100,33" group="n83_pvzb" aspect="true"/>
+    <text id="n80_pvzb" name="n80" xy="476,915" pivot="0.5,0" size="207,59" group="n83_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="失去控制的卫星&#xA;得分=倍数x5">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n83_pvzb" name="n83" xy="359,935" size="324,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n46_pvzb" name="n46" src="nwteszi" fileName="2场景UI/障碍物/aeroliteS.png" xy="81,932" size="60,65" group="n84_pvzb" aspect="true"/>
-    <text id="n81_pvzb" name="n81" xy="177,935" pivot="0.5,0" size="207,59" group="n84_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="陨石&#xA;得分=倍数">
+    <group id="n83_pvzb" name="n83" xy="359,915" size="324,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n46_pvzb" name="n46" src="nwteszi" fileName="2场景UI/障碍物/aeroliteS.png" xy="81,912" size="60,65" group="n84_pvzb" aspect="true"/>
+    <text id="n81_pvzb" name="n81" xy="177,915" pivot="0.5,0" size="207,59" group="n84_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="陨石&#xA;得分=倍数">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n84_pvzb" name="n84" xy="81,932" size="303,65" group="n106_pvzb" collapsed="true"/>
-    <image id="n73_pvzb" name="n73" src="nwteszo" fileName="2场景UI/星球/half_planet.png" xy="356,324" group="n96_pvzb"/>
-    <text id="n86_pvzb" name="n86" xy="455,345" pivot="0.5,0" size="207,59" group="n96_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="半环星球&#xA;得分=倍数x5">
+    <group id="n84_pvzb" name="n84" xy="81,912" size="303,65" group="n106_pvzb" collapsed="true"/>
+    <image id="n73_pvzb" name="n73" src="nwteszo" fileName="2场景UI/星球/half_planet.png" xy="356,304" group="n96_pvzb"/>
+    <text id="n86_pvzb" name="n86" xy="455,325" pivot="0.5,0" size="207,59" group="n96_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="半环星球&#xA;得分=倍数x5">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n96_pvzb" name="n96" xy="356,324" size="306,100" group="n106_pvzb" collapsed="true"/>
-    <text id="n91_pvzb" name="n91" xy="453,419" pivot="0.5,0" size="207,59" group="n97_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="白色子弹，可消灭障碍">
+    <group id="n96_pvzb" name="n96" xy="356,304" size="306,100" group="n106_pvzb" collapsed="true"/>
+    <text id="n91_pvzb" name="n91" xy="453,399" pivot="0.5,0" size="207,59" group="n97_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="白色子弹，可消灭障碍">
       <relation target="" sidePair="center-center"/>
     </text>
-    <image id="n92_pvzb" name="n92" src="o1zjsm7" fileName="2场景UI/道具/ExplodeSpike.png" xy="392,427" group="n97_pvzb"/>
-    <group id="n97_pvzb" name="n97" xy="392,419" size="268,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n67_pvzb" name="n67" src="nwtet04" fileName="2场景UI/道具/Plus.png" xy="381,500" group="n98_pvzb"/>
-    <text id="n90_pvzb" name="n90" xy="453,495" pivot="0.5,0" size="207,59" group="n98_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="地球变大，无敌状态">
+    <image id="n92_pvzb" name="n92" src="o1zjsm7" fileName="2场景UI/道具/ExplodeSpike.png" xy="392,407" group="n97_pvzb"/>
+    <group id="n97_pvzb" name="n97" xy="392,399" size="268,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n67_pvzb" name="n67" src="nwtet04" fileName="2场景UI/道具/Plus.png" xy="381,480" group="n98_pvzb"/>
+    <text id="n90_pvzb" name="n90" xy="453,475" pivot="0.5,0" size="207,59" group="n98_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="地球变大，无敌状态">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n98_pvzb" name="n98" xy="381,495" size="279,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n68_pvzb" name="n68" src="nwtet0m" fileName="2场景UI/道具/Star.png" xy="381,570" group="n99_pvzb"/>
-    <text id="n94_pvzb" name="n94" xy="453,565" pivot="0.5,0" size="207,59" group="n99_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="快速旋转，无敌状态">
+    <group id="n98_pvzb" name="n98" xy="381,475" size="279,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n68_pvzb" name="n68" src="nwtet0m" fileName="2场景UI/道具/Star.png" xy="381,550" group="n99_pvzb"/>
+    <text id="n94_pvzb" name="n94" xy="453,545" pivot="0.5,0" size="207,59" group="n99_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="快速旋转，无敌状态">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n99_pvzb" name="n99" xy="381,565" size="279,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n61_pvzb" name="n61" src="d4i8t1e" fileName="2场景UI/道具/cut.png" xy="381,642" group="n100_pvzb"/>
-    <text id="n95_pvzb" name="n95" xy="453,638" pivot="0.5,0" size="207,59" group="n100_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="连线变彩色，线经过的障碍都会被清除">
+    <group id="n99_pvzb" name="n99" xy="381,545" size="279,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n61_pvzb" name="n61" src="d4i8t1e" fileName="2场景UI/道具/cut.png" xy="381,622" group="n100_pvzb"/>
+    <text id="n95_pvzb" name="n95" xy="453,618" pivot="0.5,0" size="207,59" group="n100_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="连线变彩色，线经过的障碍都会被清除">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n100_pvzb" name="n100" xy="381,638" size="279,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n64_pvzb" name="n64" src="nwteszb" fileName="2场景UI/道具/magnet.png" xy="76,642" group="n101_pvzb"/>
-    <text id="n87_pvzb" name="n87" xy="153,638" pivot="0.5,0" size="207,59" group="n101_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="吸引一定范围内的星球">
+    <group id="n100_pvzb" name="n100" xy="381,618" size="279,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n64_pvzb" name="n64" src="nwteszb" fileName="2场景UI/道具/magnet.png" xy="76,622" group="n101_pvzb"/>
+    <text id="n87_pvzb" name="n87" xy="153,618" pivot="0.5,0" size="207,59" group="n101_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="吸引一定范围内的星球">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n101_pvzb" name="n101" xy="76,638" size="284,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n69_pvzb" name="n69" src="nwtet0n" fileName="2场景UI/道具/Thunderbolt.png" xy="76,569" group="n102_pvzb"/>
-    <text id="n93_pvzb" name="n93" xy="153,565" pivot="0.5,0" size="207,59" group="n102_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="提高转速，无敌状态">
+    <group id="n101_pvzb" name="n101" xy="76,618" size="284,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n69_pvzb" name="n69" src="nwtet0n" fileName="2场景UI/道具/Thunderbolt.png" xy="76,549" group="n102_pvzb"/>
+    <text id="n93_pvzb" name="n93" xy="153,545" pivot="0.5,0" size="207,59" group="n102_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="提高转速，无敌状态">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n102_pvzb" name="n102" xy="76,565" size="284,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n65_pvzb" name="n65" src="nwteszc" fileName="2场景UI/道具/megaJump.png" xy="76,496" group="n103_pvzb"/>
-    <text id="n89_pvzb" name="n89" xy="153,492" pivot="0.5,0" size="207,59" group="n103_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="超级跳跃，跳的更高">
+    <group id="n102_pvzb" name="n102" xy="76,545" size="284,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n65_pvzb" name="n65" src="nwteszc" fileName="2场景UI/道具/megaJump.png" xy="76,476" group="n103_pvzb"/>
+    <text id="n89_pvzb" name="n89" xy="153,472" pivot="0.5,0" size="207,59" group="n103_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="超级跳跃，跳的更高">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n103_pvzb" name="n103" xy="76,492" size="284,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n62_pvzb" name="n62" src="nwtesz0" fileName="2场景UI/道具/Explode.png" xy="76,423" group="n104_pvzb"/>
-    <text id="n88_pvzb" name="n88" xy="153,419" pivot="0.5,0" size="207,59" group="n104_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="生成一圈白色子弹">
+    <group id="n103_pvzb" name="n103" xy="76,472" size="284,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n62_pvzb" name="n62" src="nwtesz0" fileName="2场景UI/道具/Explode.png" xy="76,403" group="n104_pvzb"/>
+    <text id="n88_pvzb" name="n88" xy="153,399" pivot="0.5,0" size="207,59" group="n104_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="生成一圈白色子弹">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n104_pvzb" name="n104" xy="76,419" size="284,59" group="n106_pvzb" collapsed="true"/>
-    <image id="n71_pvzb" name="n71" src="nwtet15" fileName="2场景UI/星球/planet-gray.png" xy="48,325" group="n105_pvzb"/>
-    <text id="n85_pvzb" name="n85" xy="153,346" pivot="0.5,0" size="207,59" group="n105_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="星球&#xA;得分=倍数">
+    <group id="n104_pvzb" name="n104" xy="76,399" size="284,59" group="n106_pvzb" collapsed="true"/>
+    <image id="n71_pvzb" name="n71" src="nwtet15" fileName="2场景UI/星球/planet-gray.png" xy="48,305" group="n105_pvzb"/>
+    <text id="n85_pvzb" name="n85" xy="153,326" pivot="0.5,0" size="207,59" group="n105_pvzb" fontSize="20" color="#ffffff" vAlign="middle" autoSize="none" text="星球&#xA;得分=倍数">
       <relation target="" sidePair="center-center"/>
     </text>
-    <group id="n105_pvzb" name="n105" xy="48,325" size="312,100" group="n106_pvzb" collapsed="true"/>
-    <group id="n106_pvzb" name="n106" xy="25,248" size="658,749" advanced="true" collapsed="true">
+    <group id="n105_pvzb" name="n105" xy="48,305" size="312,100" group="n106_pvzb" collapsed="true"/>
+    <group id="n106_pvzb" name="n106" xy="25,228" size="658,749" advanced="true" collapsed="true">
       <relation target="" sidePair="middle-middle"/>
     </group>
   </displayList>

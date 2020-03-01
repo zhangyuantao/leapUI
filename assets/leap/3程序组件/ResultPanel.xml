@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280" bgColor="#6666cc">
+  <controller name="noScope" pages="0,,1," selected="0"/>
   <displayList>
-    <component id="n25_ht6n" name="n25" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="0,0" size="720,1284" alpha="0.3" touchable="false">
+    <component id="n25_ht6n" name="n25" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="0,0" size="720,1284" alpha="0.5" touchable="false">
       <relation target="" sidePair="width-width,height-height"/>
     </component>
     <component id="n27_ht6n" name="restartBtn" src="ht6nspv" fileName="3程序组件/buttons/restartBtn.xml" xy="290,907" pivot="0.5,0.5" size="140,140" aspect="true">
@@ -29,6 +30,7 @@
       <relation target="n27_ht6n" sidePair="top-top,right-right"/>
     </component>
     <component id="n38_rpky" name="n38" src="yj0vsxc" fileName="3程序组件/BaseImgBlack.xml" xy="0,620" pivot="0.5,0" size="720,124" skew="0,4" alpha="0.5">
+      <gearDisplay controller="noScope" pages="0"/>
       <relation target="" sidePair="middle-middle"/>
     </component>
   </displayList>

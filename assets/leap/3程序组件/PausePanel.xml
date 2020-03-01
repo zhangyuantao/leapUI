@@ -13,7 +13,7 @@
     <group id="n27_unq8" name="n27" xy="192,195" size="267,169" advanced="true" collapsed="true">
       <relation target="" sidePair="middle-middle"/>
     </group>
-    <component id="n19_pjhb" name="continueBtn" src="nyiassa" fileName="3程序组件/buttons/开始按钮.xml" xy="280,600">
+    <component id="n19_pjhb" name="continueBtn" src="nyiassa" fileName="3程序组件/buttons/开始按钮.xml" xy="280,600" pivot="0.5,0.5">
       <relation target="" sidePair="middle-middle"/>
     </component>
     <image id="n22_nyia" name="n22" src="nyiassl" fileName="1界面UI/按钮/暂停_07.png" xy="202,840">
