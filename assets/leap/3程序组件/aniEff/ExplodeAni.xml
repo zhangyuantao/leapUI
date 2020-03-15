@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="207,204" pivot="0.5,0.5" anchor="true">
   <displayList>
-    <image id="n93_pq4d" name="n93" src="f5tuspx" fileName="动画/合成 1_00000.png" xy="62,59" pivot="0.5,0.5" locked="true"/>
-    <image id="n94_pq4d" name="n94" src="f5tuspy" fileName="动画/圈_00027.png" xy="-1,-6" pivot="0.5,0.5" scale="0.8,0.8"/>
-    <image id="n92_pq4d" name="n92" src="f5tuspy" fileName="动画/圈_00027.png" xy="-2,-5" pivot="0.5,0.5"/>
-    <image id="n91_pq4d" name="n91" src="f5tuspz" fileName="动画/光球_00027(1).png" xy="18,16" pivot="0.5,0.5" scale="1.5,1.5" blend="add"/>
+    <image id="n93_pq4d" name="n93" src="f5tuspx" fileName="2场景UI/特效/合成 1_00000.png" xy="62,59" pivot="0.5,0.5" locked="true"/>
+    <image id="n94_pq4d" name="n94" src="f5tuspy" fileName="2场景UI/特效/圈_00027.png" xy="-1,-6" pivot="0.5,0.5" scale="0.8,0.8"/>
+    <image id="n92_pq4d" name="n92" src="f5tuspy" fileName="2场景UI/特效/圈_00027.png" xy="-2,-5" pivot="0.5,0.5"/>
+    <image id="n91_pq4d" name="n91" src="f5tuspz" fileName="2场景UI/特效/光球_00027(1).png" xy="18,16" pivot="0.5,0.5" scale="1.5,1.5"/>
   </displayList>
   <transition name="t0" autoPlayRepeat="-1">
-    <item time="0" type="Alpha" target="n94_pq4d" value="0"/>
-    <item time="0" type="Alpha" target="n92_pq4d" tween="true" startValue="0" endValue="0.9" duration="6" ease="Linear"/>
     <item time="0" type="Alpha" target="n93_pq4d" tween="true" startValue="0" endValue="1" duration="4" ease="Linear"/>
+    <item time="0" type="Alpha" target="n92_pq4d" tween="true" startValue="0" endValue="0.9" duration="6" ease="Linear"/>
+    <item time="0" type="Alpha" target="n94_pq4d" value="0"/>
     <item time="0" type="Alpha" target="n91_pq4d" tween="true" startValue="0" endValue="1" duration="4" ease="Linear"/>
     <item time="0" type="Scale" target="n92_pq4d" tween="true" startValue="0.5,0.5" endValue="1,1" duration="5" ease="Linear"/>
     <item time="0" type="Scale" target="n91_pq4d" tween="true" startValue="1.5,1.5" endValue="1,1" duration="4" ease="Linear"/>

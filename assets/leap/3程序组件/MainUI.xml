@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="720,1280">
-  <controller name="gameOverCtrl" pages="0,,1," selected="1"/>
+  <controller name="gameOverCtrl" pages="0,,1," selected="0"/>
   <displayList>
     <component id="n21_o1zj" name="scoreTxt" src="o1zjsnb" fileName="3程序组件/ScoreText.xml" xy="361,232" pivot="0.5,0.5" anchor="true" touchable="false">
       <gearDisplay controller="gameOverCtrl" pages="0"/>

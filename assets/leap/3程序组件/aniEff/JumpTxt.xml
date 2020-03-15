@@ -2,7 +2,7 @@
 <component size="92,45">
   <displayList>
     <text id="n0_ir4q" name="txt" xy="7,-13" pivot="1,0" anchor="true" size="39,76" font="ui://u9b31fxfunq8t39" fontSize="8" color="#ffffff" align="right" vAlign="middle" text="1"/>
-    <image id="n1_ty38" name="n1" src="ty38st2" fileName="1界面UI/级跳.png" xy="10,1">
+    <image id="n1_ty38" name="n1" src="ty38st2" fileName="2场景UI/特效/级跳.png" xy="10,1">
       <relation target="n0_ir4q" sidePair="right-right"/>
     </image>
   </displayList>

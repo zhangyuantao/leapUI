@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="u9b31fxf" jpegQuality="80" compressPNG="true">
   <resources>
+    <folder id="/1界面UI/" name="1界面UI" path="/" atlas="1"/>
     <component id="v6ig3x" name="MainWindow.xml" path="/3程序组件/" exported="true"/>
     <component id="r8407x" name="SceneMask.xml" path="/3程序组件/"/>
     <image id="o1zjsku" name="rankIcon.png" path="/1界面UI/按钮/"/>
@@ -10,9 +11,9 @@
     <image id="o1zjslu" name="quitIcon.png" path="/1界面UI/按钮/"/>
     <image id="o1zjslv" name="radial_gradient.png" path="/2场景UI/场景光照图/"/>
     <image id="o1zjsm6" name="speechBubble_plain.png" path="/1界面UI/" scale="9grid" scale9grid="34,12,1,1"/>
-    <image id="o1zjsm7" name="ExplodeSpike.png" path="/2场景UI/道具/"/>
+    <image id="o1zjsm7" name="ExplodeSpike.png" path="/2场景UI/物品/道具/"/>
     <image id="o1zjsmk" name="vignette-full-2.png" path="/1界面UI/"/>
-    <image id="o1zjsml" name="WhiteAlt2.png" path="/1界面UI/"/>
+    <image id="o1zjsml" name="WhiteAlt2.png" path="/2场景UI/"/>
     <component id="o1zjsmm" name="SpikeCenter.xml" path="/3程序组件/" exported="true"/>
     <component id="o1zjsms" name="Player.xml" path="/3程序组件/" exported="true"/>
     <component id="o1zjsmt" name="ScoreBall_new.xml" path="/3程序组件/props/" exported="true"/>
@@ -42,18 +43,18 @@
     <image id="ht6nspt" name="zigzagPattern.png" path="/2场景UI/背景纹理/" scale="tile" duplicatePadding="true"/>
     <component id="ht6nspu" name="ResultPanel.xml" path="/3程序组件/" exported="true"/>
     <component id="ht6nspv" name="restartBtn.xml" path="/3程序组件/buttons/"/>
-    <component id="f5tuspw" name="ExplodeAni.xml" path="/3程序组件/" exported="true"/>
-    <image id="f5tuspx" name="合成 1_00000.png" path="/1界面UI/"/>
-    <image id="f5tuspy" name="圈_00027.png" path="/1界面UI/"/>
-    <image id="f5tuspz" name="光球_00027(1).png" path="/1界面UI/"/>
-    <component id="f5tusq0" name="CollisionAni.xml" path="/3程序组件/" exported="true"/>
-    <component id="f5tusq1" name="DeadAni.xml" path="/3程序组件/" exported="true"/>
+    <component id="f5tuspw" name="ExplodeAni.xml" path="/3程序组件/aniEff/" exported="true"/>
+    <image id="f5tuspx" name="合成 1_00000.png" path="/2场景UI/特效/"/>
+    <image id="f5tuspy" name="圈_00027.png" path="/2场景UI/特效/"/>
+    <image id="f5tuspz" name="光球_00027(1).png" path="/2场景UI/特效/"/>
+    <component id="f5tusq0" name="CollisionAni.xml" path="/3程序组件/aniEff/" exported="true"/>
+    <component id="f5tusq1" name="DeadAni.xml" path="/3程序组件/aniEff/" exported="true"/>
     <component id="f5tusq5" name="PlayerFace.xml" path="/3程序组件/"/>
     <component id="f5tusq7" name="PlayerEyes.xml" path="/3程序组件/"/>
     <component id="nrpesqd" name="PlayerUI.xml" path="/3程序组件/" exported="true"/>
     <image id="9oeysqf" name="无敌圈小.png" path="/2场景UI/角色/"/>
-    <component id="ir4qsqg" name="CollisionBlackAni.xml" path="/3程序组件/" exported="true"/>
-    <component id="ir4qsr5" name="AddScoreAni.xml" path="/3程序组件/" exported="true"/>
+    <component id="ir4qsqg" name="CollisionBlackAni.xml" path="/3程序组件/aniEff/" exported="true"/>
+    <component id="ir4qsr5" name="AddScoreAni.xml" path="/3程序组件/aniEff/" exported="true"/>
     <component id="ir4qsr7" name="NewRecord.xml" path="/3程序组件/"/>
     <component id="ir4qsrr" name="音乐按钮.xml" path="/3程序组件/buttons/"/>
     <image id="ir4qsrs" name="音乐开.png" path="/1界面UI/按钮/"/>
@@ -67,17 +68,17 @@
     <component id="nyiassg" name="ReadyPanel.xml" path="/3程序组件/" exported="true"/>
     <component id="nyiassj" name="PausePanel.xml" path="/3程序组件/"/>
     <image id="nyiassl" name="暂停_07.png" path="/1界面UI/按钮/"/>
-    <image id="nyiasso" name="圈线_00027.png" path="/1界面UI/"/>
+    <image id="nyiasso" name="圈线_00027.png" path="/2场景UI/特效/"/>
     <component id="nyiasss" name="Guide1.xml" path="/3程序组件/" exported="true"/>
     <component id="nyiassu" name="Guide3.xml" path="/3程序组件/" exported="true"/>
     <component id="nyiassw" name="Guide2.xml" path="/3程序组件/" exported="true"/>
     <component id="nyiassy" name="Guide0.xml" path="/3程序组件/" exported="true"/>
     <component id="nyiassz" name="GuideHand.xml" path="/3程序组件/"/>
     <component id="nyiast0" name="GuidePanel.xml" path="/3程序组件/" exported="true"/>
-    <component id="ty38st1" name="JumpAni.xml" path="/3程序组件/" exported="true"/>
-    <image id="ty38st2" name="级跳.png" path="/1界面UI/"/>
-    <component id="ty38st3" name="Component1.xml" path="/3程序组件/"/>
-    <component id="ktxlst4" name="MagnetEff.xml" path="/3程序组件/"/>
+    <component id="ty38st1" name="JumpAni.xml" path="/3程序组件/aniEff/" exported="true"/>
+    <image id="ty38st2" name="级跳.png" path="/2场景UI/特效/"/>
+    <component id="ty38st3" name="JumpTxt.xml" path="/3程序组件/aniEff/"/>
+    <component id="ktxlst4" name="MagnetEff.xml" path="/3程序组件/aniEff/"/>
     <component id="q2rsstc" name="排行榜按钮.xml" path="/3程序组件/buttons/"/>
     <component id="la2gstg" name="MultText.xml" path="/3程序组件/"/>
     <image id="n5d2svq" name="playIcon.png" path="/1界面UI/按钮/"/>
@@ -90,14 +91,13 @@
     <component id="ii48swy" name="Component3.xml" path="/3程序组件/"/>
     <component id="ii48swz" name="Component4.xml" path="/3程序组件/"/>
     <component id="ii48sx0" name="Component5.xml" path="/3程序组件/"/>
-    <component id="f373sx3" name="ThunderEff.xml" path="/3程序组件/"/>
-    <component id="f373sx4" name="PlusEff.xml" path="/3程序组件/"/>
-    <component id="mvnpsx9" name="BaseImgWhite.xml" path="/3程序组件/" exported="true"/>
+    <component id="f373sx3" name="ThunderEff.xml" path="/3程序组件/aniEff/"/>
+    <component id="f373sx4" name="PlusEff.xml" path="/3程序组件/aniEff/"/>
+    <component id="mvnpsx9" name="EndLineUI.xml" path="/3程序组件/" exported="true"/>
     <component id="yj0vsxc" name="BaseImgBlack.xml" path="/3程序组件/" exported="true"/>
-    <image id="yj0vsxf" name="wihteImgCircle.png" path="/1界面UI/"/>
-    <image id="i8p0sxh" name="redImg.png" path="/1界面UI/" scale="9grid" scale9grid="1,1,1,1"/>
+    <image id="yj0vsxf" name="wihteImgCircle.png" path="/2场景UI/特效/"/>
     <image id="i8p0sxi" name="blackImg.png" path="/1界面UI/" scale="9grid" scale9grid="1,1,1,1"/>
-    <image id="i8p0sxj" name="whiteImg.png" path="/1界面UI/" scale="9grid" scale9grid="1,1,1,1"/>
+    <image id="i8p0sxj" name="whiteImg.png" path="/2场景UI/特效/" scale="9grid" scale9grid="1,1,1,1"/>
     <image id="ho8osxm" name="n76.png" path="/1界面UI/"/>
     <component id="spo4sxn" name="关闭按钮.xml" path="/3程序组件/buttons/"/>
     <component id="q7amsxo" name="quiteBtn.xml" path="/3程序组件/buttons/"/>
@@ -109,50 +109,49 @@
     <component id="batmsyd" name="RankBack.xml" path="/3程序组件/" exported="true"/>
     <image id="nwtesyf" name="效果图.jpg" path="/4其他/"/>
     <image id="nwtesyg" name="blueImg.png" path="/1界面UI/" scale="9grid" scale9grid="1,1,1,1" duplicatePadding="true"/>
-    <image id="nwtesz0" name="Explode.png" path="/2场景UI/道具/"/>
+    <image id="nwtesz0" name="Explode.png" path="/2场景UI/物品/道具/"/>
     <image id="nwtesz2" name="eye2.png" path="/2场景UI/角色/"/>
-    <image id="nwteszb" name="magnet.png" path="/2场景UI/道具/"/>
-    <image id="nwteszc" name="megaJump.png" path="/2场景UI/道具/"/>
-    <image id="nwteszf" name="aeroliteL.png" path="/2场景UI/障碍物/"/>
-    <image id="nwteszi" name="aeroliteS.png" path="/2场景UI/障碍物/"/>
+    <image id="nwteszb" name="magnet.png" path="/2场景UI/物品/道具/"/>
+    <image id="nwteszc" name="megaJump.png" path="/2场景UI/物品/道具/"/>
+    <image id="nwteszf" name="aeroliteL.png" path="/2场景UI/物品/障碍物/"/>
+    <image id="nwteszi" name="aeroliteS.png" path="/2场景UI/物品/障碍物/"/>
     <image id="nwteszl" name="blackHole.png" path="/2场景UI/黑洞/"/>
     <image id="nwteszn" name="earth.png" path="/2场景UI/角色/"/>
-    <image id="nwteszo" name="half_planet.png" path="/2场景UI/星球/"/>
-    <image id="nwteszp" name="half_planetColourless.png" path="/2场景UI/星球/"/>
-    <image id="nwtet04" name="Plus.png" path="/2场景UI/道具/"/>
-    <image id="nwtet0i" name="Spike.png" path="/2场景UI/黑洞/"/>
-    <image id="nwtet0m" name="Star.png" path="/2场景UI/道具/"/>
-    <image id="nwtet0n" name="Thunderbolt.png" path="/2场景UI/道具/"/>
-    <image id="nwtet11" name="half_planet2.png" path="/2场景UI/星球/"/>
-    <image id="nwtet15" name="planet-gray.png" path="/2场景UI/星球/"/>
+    <image id="nwteszo" name="half_planet.png" path="/2场景UI/物品/星球/"/>
+    <image id="nwteszp" name="half_planetColourless.png" path="/2场景UI/物品/星球/"/>
+    <image id="nwtet04" name="Plus.png" path="/2场景UI/物品/道具/"/>
+    <image id="nwtet0i" name="Spike.png" path="/2场景UI/物品/障碍物/"/>
+    <image id="nwtet0m" name="Star.png" path="/2场景UI/物品/道具/"/>
+    <image id="nwtet0n" name="Thunderbolt.png" path="/2场景UI/物品/道具/"/>
+    <image id="nwtet11" name="half_planet2.png" path="/2场景UI/物品/星球/"/>
+    <image id="nwtet15" name="planet-gray.png" path="/2场景UI/物品/星球/"/>
     <component id="nwtet16" name="BlackHole.xml" path="/3程序组件/"/>
-    <image id="nwtet17" name="half_planet1.png" path="/2场景UI/星球/"/>
-    <image id="nwtet18" name="half_planet3.png" path="/2场景UI/星球/"/>
-    <image id="nwtet19" name="half_planet4.png" path="/2场景UI/星球/"/>
-    <image id="nwtet1a" name="half_planet5.png" path="/2场景UI/星球/"/>
+    <image id="nwtet17" name="half_planet1.png" path="/2场景UI/物品/星球/"/>
+    <image id="nwtet18" name="half_planet3.png" path="/2场景UI/物品/星球/"/>
+    <image id="nwtet19" name="half_planet4.png" path="/2场景UI/物品/星球/"/>
+    <image id="nwtet1a" name="half_planet5.png" path="/2场景UI/物品/星球/"/>
     <image id="y2xbt1c" name="tuijian.png" path="/1界面UI/按钮/"/>
     <component id="hx8ft1d" name="WoldLight.xml" path="/3程序组件/" exported="true"/>
-    <image id="d4i8t1e" name="cut.png" path="/2场景UI/道具/"/>
+    <image id="d4i8t1e" name="cut.png" path="/2场景UI/物品/道具/"/>
     <component id="web3t1f" name="LinkLine.xml" path="/3程序组件/" exported="true"/>
-    <image id="ealrt1h" name="未标题-1.png" path="/1界面UI/" scale="" duplicatePadding="true"/>
-    <image id="mkg7t1m" name="colorLine.png" path="/1界面UI/" scale="" duplicatePadding="true"/>
-    <image id="m6uqt1o" name="pad.png" path="/2场景UI/黑洞/"/>
+    <image id="mkg7t1m" name="colorLine.png" path="/2场景UI/" scale="" duplicatePadding="true"/>
+    <image id="m6uqt1o" name="pad.png" path="/2场景UI/黑洞/" scale=""/>
     <image id="m6uqt1p" name="banner.jpg" path="/4其他/"/>
-    <image id="m6uqt1q" name="blue.png" path="/2场景UI/星球/"/>
-    <image id="m6uqt1r" name="green.png" path="/2场景UI/星球/"/>
-    <image id="m6uqt1s" name="orange.png" path="/2场景UI/星球/"/>
-    <image id="m6uqt1t" name="purple.png" path="/2场景UI/星球/"/>
-    <image id="m6uqt1u" name="red.png" path="/2场景UI/星球/"/>
+    <image id="m6uqt1q" name="blue.png" path="/2场景UI/物品/星球/"/>
+    <image id="m6uqt1r" name="green.png" path="/2场景UI/物品/星球/"/>
+    <image id="m6uqt1s" name="orange.png" path="/2场景UI/物品/星球/"/>
+    <image id="m6uqt1t" name="purple.png" path="/2场景UI/物品/星球/"/>
+    <image id="m6uqt1u" name="red.png" path="/2场景UI/物品/星球/"/>
     <component id="nywtt1v" name="Component6.xml" path="/4其他/"/>
-    <image id="tqu3t1x" name="logo.png" path="/4其他/"/>
-    <image id="tqu3t1y" name="satellite01.png" path="/2场景UI/障碍物/"/>
-    <image id="tqu3t1z" name="satellite02.png" path="/2场景UI/障碍物/"/>
+    <image id="tqu3t1x" name="logo.png" path="/1界面UI/"/>
+    <image id="tqu3t1y" name="satellite01.png" path="/2场景UI/物品/障碍物/"/>
+    <image id="tqu3t1z" name="satellite02.png" path="/2场景UI/物品/障碍物/"/>
     <component id="tqu3t20" name="ObTube.xml" path="/3程序组件/obstruct/" exported="true"/>
     <image id="pvzbt21" name="无敌圈.png" path="/2场景UI/角色/"/>
     <image id="pvzbt22" name="说明.png" path="/1界面UI/按钮/"/>
     <component id="pvzbt23" name="说明按钮.xml" path="/3程序组件/buttons/"/>
     <component id="pvzbt24" name="HelpPanel.xml" path="/3程序组件/"/>
-    <image id="e7k6t25" name="logo02.png" path="/4其他/"/>
+    <image id="e7k6t25" name="logo02.png" path="/1界面UI/"/>
     <component id="spcut2a" name="recommendBtn.xml" path="/3程序组件/buttons/"/>
     <component id="avvrt2b" name="录屏按钮.xml" path="/3程序组件/buttons/"/>
     <image id="avvrt2c" name="录屏.png" path="/1界面UI/按钮/"/>
@@ -161,36 +160,38 @@
     <image id="avvrt2f" name="record.png" path="/1界面UI/按钮/"/>
     <image id="avvrt2g" name="recordStop.png" path="/1界面UI/按钮/"/>
     <component id="unq8t2h" name="Font.xml" path="/4其他/"/>
-    <image id="unq8t2l" name="0.png" path="/4其他/"/>
-    <image id="unq8t2q" name="3.png" path="/4其他/"/>
-    <image id="unq8t2r" name="4.png" path="/4其他/"/>
-    <image id="unq8t2s" name="1.png" path="/4其他/"/>
-    <image id="unq8t2t" name="2.png" path="/4其他/"/>
-    <image id="unq8t2u" name="5.png" path="/4其他/"/>
-    <image id="unq8t2v" name="6.png" path="/4其他/"/>
-    <image id="unq8t2w" name="7.png" path="/4其他/"/>
-    <image id="unq8t2x" name="8.png" path="/4其他/"/>
-    <image id="unq8t2y" name="9.png" path="/4其他/"/>
-    <image id="unq8t2z" name="!.png" path="/4其他/"/>
-    <image id="unq8t30" name="+.png" path="/4其他/"/>
-    <image id="unq8t31" name="x.png" path="/4其他/"/>
-    <image id="unq8t33" name="B.png" path="/4其他/"/>
-    <image id="unq8t34" name="E.png" path="/4其他/"/>
-    <image id="unq8t35" name="S.png" path="/4其他/"/>
-    <image id="unq8t36" name="T.png" path="/4其他/"/>
-    <image id="unq8t37" name="A.png" path="/4其他/"/>
-    <image id="unq8t38" name="G.png" path="/4其他/"/>
-    <font id="unq8t39" name="Font.fnt" path="/4其他/" exported="true"/>
-    <font id="unq8t3b" name="Font1.fnt" path="/4其他/" exported="true"/>
-    <image id="unq8t3d" name="logo03.png" path="/4其他/"/>
-    <image id="unq8t3e" name="L.png" path="/4其他/"/>
-    <image id="unq8t3f" name="V.png" path="/4其他/"/>
-    <image id="unq8t3g" name="O.png" path="/4其他/"/>
-    <image id="unq8t3h" name="R.png" path="/4其他/"/>
-    <image id="unq8t3i" name="C.png" path="/4其他/"/>
+    <image id="unq8t2l" name="0.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2q" name="3.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2r" name="4.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2s" name="1.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2t" name="2.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2u" name="5.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2v" name="6.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2w" name="7.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2x" name="8.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2y" name="9.png" path="/1界面UI/字体/"/>
+    <image id="unq8t2z" name="!.png" path="/1界面UI/字体/"/>
+    <image id="unq8t30" name="+.png" path="/1界面UI/字体/"/>
+    <image id="unq8t31" name="x.png" path="/1界面UI/字体/"/>
+    <image id="unq8t33" name="B.png" path="/1界面UI/字体/"/>
+    <image id="unq8t34" name="E.png" path="/1界面UI/字体/"/>
+    <image id="unq8t35" name="S.png" path="/1界面UI/字体/"/>
+    <image id="unq8t36" name="T.png" path="/1界面UI/字体/"/>
+    <image id="unq8t37" name="A.png" path="/1界面UI/字体/"/>
+    <image id="unq8t38" name="G.png" path="/1界面UI/字体/"/>
+    <font id="unq8t39" name="Font.fnt" path="/1界面UI/字体/" exported="true"/>
+    <font id="unq8t3b" name="Font1.fnt" path="/1界面UI/字体/" exported="true"/>
+    <image id="unq8t3d" name="logo03.png" path="/1界面UI/"/>
+    <image id="unq8t3e" name="L.png" path="/1界面UI/字体/"/>
+    <image id="unq8t3f" name="V.png" path="/1界面UI/字体/"/>
+    <image id="unq8t3g" name="O.png" path="/1界面UI/字体/"/>
+    <image id="unq8t3h" name="R.png" path="/1界面UI/字体/"/>
+    <image id="unq8t3i" name="C.png" path="/1界面UI/字体/"/>
     <component id="unq8t3k" name="音乐按钮2.xml" path="/3程序组件/buttons/"/>
     <component id="unq8t3l" name="说明按钮2.xml" path="/3程序组件/buttons/"/>
     <component id="unq8t3m" name="录屏按钮2.xml" path="/3程序组件/buttons/"/>
+    <image id="ew5ut3n" name="endline.png" path="/2场景UI/" scale="9grid" scale9grid="1,1,1,1"/>
+    <image id="ew5ut3p" name="n18.png" path="/2场景UI/特效/"/>
   </resources>
   <publish name="leap" path="publish" maxAtlasSize="1024">
     <atlas name="默认" index="0"/>
